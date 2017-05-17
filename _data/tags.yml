@@ -1,4 +1,5 @@
 allowed-tags:
+  - blog
   - getting_started
   - content_types
   - navigation

@@ -1,0 +1,22 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Sections
+    output: web
+    folderitems:
+    - title: News
+      url: /news.html
+      output: web
+    - title: Theme instructions
+      url: /dyr_intro.html
+      output: web
+    - title: Blogs
+      url: /dyr_blogs.html
+      output: web
+    - title: Activities
+      url: /dyr_acts.html
+      output: web
