@@ -17,19 +17,20 @@ topnav_dropdowns:
     - title: Sections
       folderitems:
         - title: Overview
-          url: /mydoc_introduction.html
-        - title: JRW56
-          url: /p1_landing_page.html
-        - title: Greco51
-          url: /p2_landing_page.html
-        - title: Experience
-          url: /p2_landing_page.html
-        - title: Viewpoints
-          url: /p2_landing_page.html
+          url: /dyr_intro.html
         - title: Activities
           url: /act_intro.html
+        - title: Experience
+          url: /exp_intro.html
+        - title: Opinions
+          url: /opn_intro.html
         - title: Varia
-          url: /p2_landing_page.html
+          url: /var_intro.html
+        - title: JRW56
+          url: /jrw_intro.html
+        - title: Greco51
+          url: /grc_intro.html
+
     - title: Links
       folderitems:
         - title: Parallel Test Blog (Bruce based)
@@ -44,6 +45,14 @@ topnav_dropdowns:
           external_url:  http://dyrehaugen.ddns.net:81/wpdhn
         - title: Family Site (wordpress) (login required)
           external_url:  http://dyrehaugen.ddns.net:81/wpfam
+        - title: Prospect JRW56
+          external_url:  http://dyrehaugen.ddns.net:81/jrw56
+        - title: Prospect Greco51
+          external_url:  http://dyrehaugen.ddns.net:81/greco51
+        - title: WebCameras at JRW56 (last hour)
+          external_url:  http://dyrehaugen.ddns.net:81/cam
+        - title: Temperature logger at JRW56
+          external_url:  http://dyrehaugen.ddns.net:81/tsl
         - title: Jekyll Documentation Theme (on dyrehaugen server)
           external_url:  http://dyrehaugen.ddns.net:81/jekdoctheme
         - title: Github Repo for this site

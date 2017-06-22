@@ -5,29 +5,26 @@ entries:
   levels: one
   folders:
 
-  - title: Sections
+  - title: Activities
     output: web
     folderitems:
     - title: Overview
-      url: /dyr_intro.html
-      output: web
-    - title: Activities
       url: /act_intro.html
       output: web
-    - title: Experience
-      url: /exp_intro.html
+    - title: Dogging
+      url: /act_dogs.html
       output: web
-    - title: Opinions
-      url: /opn_intro.html
+    - title: Hiking
+      url: /act_hiking.html
       output: web
-    - title: Varia
-      url: /var_intro.html
+    - title: Swimming
+      url: /act_swimming.html
       output: web
-    - title: JRW56
-      url: /jrw_intro.html
+    - title: Tennis
+      url: /act_tennis.html
       output: web
-    - title: Greco51
-      url: /grc_intro.html
+    - title: Other
+      url: /act_other.html
       output: web
 
 # EOF

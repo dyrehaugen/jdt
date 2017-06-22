@@ -93,13 +93,20 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
+- dyr_sidebar
+- act_sidebar
+- exp_sidebar
+- vwp_sidebar
+- var_sidebar
+- jrw_sidebar
+- grc_sidebar
 - home_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
 - other
 
-description: "Reports from Dyre Haugen"
+description: "Dyre Haugen Comprehensive Site"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

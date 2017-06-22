@@ -17,17 +17,17 @@ entries:
     - title: Experience
       url: /exp_intro.html
       output: web
-    - title: Opinions
-      url: /opn_intro.html
-      output: web
-    - title: Varia
-      url: /var_intro.html
+    - title: Greco51
+      url: /grc_intro.html
       output: web
     - title: JRW56
       url: /jrw_intro.html
       output: web
-    - title: Greco51
-      url: /grc_intro.html
+    - title: Varia
+      url: /var_intro.html
+      output: web
+    - title: Opinions
+      url: /opn_intro.html
       output: web
 
 # EOF
