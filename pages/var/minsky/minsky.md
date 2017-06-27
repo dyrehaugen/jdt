@@ -22,8 +22,7 @@ The basic system consist of four differential equations:
 (3) $$\dot{d} = d [ r - \frac{ \kappa ( 1 - \omega - r d )}{ \nu } + \delta ]$$
 
 
-(4) $$\dot{p} = p [ \psi ( \frac{ \kappa ( 1 - \omega - r d )}{ \nu } -\delta) - \frac{ \kappa ( 1 - \omega\
- - r d )}{ \nu } + \delta ]$$
+(4) $$\dot{p} = p [ \psi ( \frac{ \kappa ( 1 - \omega - r d )}{ \nu } -\delta) - \frac{ \kappa ( 1 - \omega\ - r d )}{ \nu } + \delta ]$$
 
 The variables involved are:
 
