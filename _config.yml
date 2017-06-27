@@ -12,7 +12,7 @@ site_title: Dyrehaugen
 company_name: Dyrehaugen
 # this appears in the footer
 
-github_editme_path: dyrehaugen/jdt/
+github_editme_path: dyrehaugen/jdt/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: dyrehaugen
@@ -111,6 +111,9 @@ description: "Dyre Haugen Comprehensive Site"
 
 # needed for sitemap.xml file only
 url: http://dyrehaugen.ddns.net:81/jdt
+
+# https://github.com/github/pages-gem/issues/399
+github: [metadata]
 
 # EOF
 

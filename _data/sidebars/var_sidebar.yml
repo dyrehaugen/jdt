@@ -5,14 +5,14 @@ entries:
   levels: one
   folders:
 
-  - title: Sections
+  - title: Varia
     output: web
     folderitems:
     - title: Overview
-      url: /dyr_intro.html
+      url: /var_intro.html
       output: web
-    - title: Activities
-      url: /act_intro.html
+    - title: Minsky
+      url: /minsky.html
       output: web
     - title: Experience
       url: /exp_intro.html

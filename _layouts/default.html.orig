@@ -71,8 +71,6 @@
     </script>
     {% endif %}
 
-
-    
 </head>
 <body>
 {% include topnav.html %}
@@ -103,8 +101,4 @@
 {% if site.google_analytics %}
 {% include google_analytics.html %}
 {% endif %}
-
-<!--https://stackoverflow.com/questions/10987992/using-mathjax-with-jekyll -->
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 </html>

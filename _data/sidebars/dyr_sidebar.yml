@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Sections
+  - title: Navigation
     output: web
     folderitems:
     - title: Overview
