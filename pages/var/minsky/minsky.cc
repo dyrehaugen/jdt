@@ -1,35 +1,3 @@
----
-title: Minsky
-keywords: varia
-last_updated: June 26, 2017
-tags: [varia]
-summary: "Modelling Minsky"
-sidebar: var_sidebar
-permalink: minsky.html
-folder: var
----
-
-Steve Keen and Matheus Grasselli have developed a simple model of debt-deflation.
-
-
-(1) $$\dot{\omega} = \omega [ \Phi (\lambda) - \alpha ]$$
-
-
-(2) $$\dot{\lambda} = \lambda [	   \frac{ \kappa ( 1 - \omega - r d )}{ \nu } - \alpha - \beta - \delta ]$$
-
-
-(3) $$\dot{d} = d [ r - \frac{ \kappa ( 1 - \omega - r d )}{ \nu } + \delta ]$$
-
-
-(4) $$\dot{p} = p [ \psi ( \frac{ \kappa ( 1 - \omega - r d )}{ \nu } -\delta) - \frac{ \kappa ( 1 - \omega\
- - r d )}{ \nu } + \delta ]$$
-
-I have put this into c++ code.
-This makes it easy to check sensitivity of choice of initial parameters settings.
-
-
-
-```c++
 // ~/xlin/gsl/testminsky.cc
 // 150924 003 Task now -> grid
 // Basert på 150921 001 testminskyall.cc
@@ -463,10 +431,4 @@ int main(int argc, char **argv) {
      }
 
 // EOF
-
-```
-
-Then some end-notes here.
-
-{% include links.html %}
 
