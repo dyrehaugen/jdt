@@ -98,6 +98,7 @@ sidebars:
 - exp_sidebar
 - vwp_sidebar
 - var_sidebar
+- minsky_sidebar
 - jrw_sidebar
 - grc_sidebar
 - home_sidebar

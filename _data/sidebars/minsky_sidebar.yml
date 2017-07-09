@@ -1,0 +1,27 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Minsky
+    output: web
+    folderitems:
+    - title: Varia
+      url: /var_intro.html
+      output: web
+    - title: Minsky
+      url: /minsky.html
+      output: web
+    - title: Plots
+      url: /minskyplots.html
+      output: web
+    - title: Code
+      url: /minskycode.html
+      output: web
+    - title: Data
+      url: /minskydata.html
+      output: web
+ 
+# EOF

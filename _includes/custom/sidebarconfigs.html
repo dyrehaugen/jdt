@@ -31,6 +31,9 @@
 {% elsif page.sidebar == "var_sidebar" %}
 {% assign sidebar = site.data.sidebars.var_sidebar.entries %}
 
+{% elsif page.sidebar == "minsky_sidebar" %}
+{% assign sidebar = site.data.sidebars.minsky_sidebar.entries %}
+
 {% else %}
 {% assign sidebar = site.data.sidebars.home_sidebar.entries %}
 {% endif %}
