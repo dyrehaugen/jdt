@@ -2,7 +2,7 @@
 title: Dyre Haugen - Collections
 keywords: homepage
 tags: [homepage]
-sidebar: dyr_sidebar
+sidebar: home_sidebar
 permalink: index.html
 summary: This site is the central web node for Dyre Haugen. The various 'Sections' includes documents collected here, while 'Links' point to material external to this site. There are as well News and Blog. The 'Nav' button on the main meny toggles the sidebar meny for each section on or off. A brief introduction to this and the related sites is given below. 
 

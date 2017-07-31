@@ -5,10 +5,13 @@ entries:
   levels: one
   folders:
 
-  - title: Activities
+  - title: Navigation
     output: web
     folderitems:
-    - title: Overview
+    - title: Home
+      url: /index.html
+      output: web
+    - title: Activities Overview
       url: /act_intro.html
       output: web
     - title: Dogging

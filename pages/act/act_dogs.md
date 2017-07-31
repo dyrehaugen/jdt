@@ -1,9 +1,10 @@
 ---
-title: Dogs 
+title: Dogs and other people 
 keywords: dogs
 last_updated: July 29,2017
 tags: [dogs]
-summary: "Dogging"
+summary: "This is about living with dogs - we start out by considering artful
+photograhy of these our friends"
 sidebar: act_sidebar
 permalink: act_dogs.html
 folder: act
@@ -20,5 +21,17 @@ Photographing dogs is an art. Just look here:
 
 This is Zelda at Haglebu - Princess of Norwegian Folk Tales - photo by Lisa 2015.
 
+And as if this is not enough here is another great photo of the princess:
+
+{% include image.html file="zelda.jpg" alt="zelda"  %}
+
+En garde at Lake Tyrifjorden - really a blistering part of Norwegian summer nature -
+also by Lisa.
+
+Dog portraits may be the most difficult photo art - here is Raico as Louis XIV.
+
+{% include image.html file="Raico_Ludvig14.jpg" alt="RaicoLouisXIV"  %}
+
+Photographer: Dyre
 
 {% include links.html %}

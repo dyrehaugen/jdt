@@ -23,10 +23,10 @@ entries:
     - title: Varia
       url: /var_intro.html
       output: web
-    - title: JRW56
-      url: /jrw_intro.html
+    - title: Norway
+      url: /nor_intro.html
       output: web
-    - title: Greco51
+    - title: Gran Canaria
       url: /grc_intro.html
       output: web
 

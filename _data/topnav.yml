@@ -26,9 +26,9 @@ topnav_dropdowns:
           url: /opn_intro.html
         - title: Varia
           url: /var_intro.html
-        - title: JRW56
-          url: /jrw_intro.html
-        - title: Greco51
+        - title: Norway
+          url: /nor_intro.html
+        - title: Gran Canaria
           url: /grc_intro.html
 
     - title: Links
@@ -45,9 +45,9 @@ topnav_dropdowns:
           external_url:  http://dyrehaugen.ddns.net:81/wpdhn
         - title: Family Site (wordpress) (login required)
           external_url:  http://dyrehaugen.ddns.net:81/wpfam
-        - title: Prospect JRW56
+        - title: JRW56
           external_url:  http://dyrehaugen.ddns.net:81/jrw56
-        - title: Prospect Greco51
+        - title: Greco51
           external_url:  http://dyrehaugen.ddns.net:81/greco51
         - title: WebCameras at JRW56 (last hour)
           external_url:  http://dyrehaugen.ddns.net:81/cam
