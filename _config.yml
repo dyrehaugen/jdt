@@ -93,19 +93,24 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- dyr_sidebar
 - act_sidebar
+- cap_sidebar
+- clm_sidebar
+- dyr_sidebar
 - exp_sidebar
-- vwp_sidebar
-- var_sidebar
-- minsky_sidebar
-- jrw_sidebar
 - grc_sidebar
 - home_sidebar
+- minsky_sidebar
+- nor_sidebar
+- opn_sidebar
+- other
+- urb_sidebar
+- vwp_sidebar
+- var_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
-- other
+
 
 description: "Dyre Haugen Comprehensive Site"
 # the description is used in the feed.xml file
@@ -117,5 +122,3 @@ url: http://dyrehaugen.ddns.net:81/jdt
 github: [metadata]
 
 # EOF
-
-

@@ -5,29 +5,17 @@ entries:
   levels: one
   folders:
 
-  - title: Varia
+  - title: Navigation
     output: web
     folderitems:
-    - title: Overview
+    - title: Home
+      url: /index.html
+      output: web
+    - title: Varia Overview
       url: /var_intro.html
       output: web
     - title: Minsky
       url: /minsky.html
-      output: web
-    - title: Experience
-      url: /exp_intro.html
-      output: web
-    - title: Opinions
-      url: /opn_intro.html
-      output: web
-    - title: Varia
-      url: /var_intro.html
-      output: web
-    - title: Gran Canaria
-      url: /grc_intro.html
-      output: web
-    - title: Norway
-      url: /nor_intro.html
       output: web
 
 # EOF

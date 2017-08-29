@@ -17,10 +17,11 @@ Dyrehaugen is where I live.
 
 Activities documented here include:
 
-*  Hiking
-*  Swimming
-*  [Dogging][dyr_acts]
-*  Other
+*  [Dogging](act_dogs.html)
+*  [Hiking](act_hiking.html)
+*  [Swimming](act_swimming.html)
+*  [Tennis](act_tennis.html)
+*  [Other](act_other.html)
 
 ### 2. Experience
 
@@ -38,25 +39,34 @@ Experiences leads to opinions on what matters in life and society.
 I will try to explain the reasoning behind some of my most explicit
 opinions on:
 
-* political economy 
-* climate change and environmental protection
-* religion
-* urbanism
+* [capitalism](cap_intro.html)
+* [climate change](clm_intro.html)
+* [urbanisation](urb_intro.html)
 
-### 4. Varia
+## 4. Varia
 
 Material on other issues that might emerge will be put here -
 at least intially. What grows might later be turned into new sections
 in it's own right.
+Right now there is one theme covered here:
 
-## 5. JRW56
+* [minsky](minsky.html)
 
-JRW56 is my homestead Up North. I would like to document it's qualities as
-a living environment.
+## 5. Norway
 
-## 6. Greco51
+Staying in Asker, close to Oslo, with the fjord and mountains ut to 400m
+within walking range, 'JRW56' is my homestead Up North.
+I would like to document the qualities of Norway - and my own place in
+particular - as a living environment.
 
-Greco51 is my homestead Down South. I would like to document's its qualities as
-a living environment.
+* [norway](nor_intro.html)
+
+## 6. Gran Canaria
+
+On Gran Canaria - a small bungalow named 'Greco51' is my homestead Down South -
+a place to enjoy the sun even in the winter time - without losing the
+sight of snow (on top of Mount Teide - 3500 m)
+
+* [gran canaria](grc_intro.html)
 
 {% include links.html %}

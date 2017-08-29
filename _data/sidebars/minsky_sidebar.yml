@@ -5,10 +5,13 @@ entries:
   levels: one
   folders:
 
-  - title: Minsky
+  - title: Navigation
     output: web
     folderitems:
-    - title: Varia
+    - title: Home
+      url: /index.html
+      output: web
+    - title: Varia Overview
       url: /var_intro.html
       output: web
     - title: Minsky

@@ -2,8 +2,8 @@
 title: Norway
 keywords: norway
 last_updated: July 31, 2017
-tags: [sailships]
-summary: "Dyre Haugen's Norway"
+tags: [norway, sailships]
+summary: "Introduction to Dyre Haugen's Norway"
 sidebar: nor_sidebar
 permalink: nor_intro.html
 folder: nor
