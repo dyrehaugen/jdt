@@ -1,0 +1,14 @@
+---
+title:  "New Post"
+categories:  blog
+permalink: new-post.html
+tags: [blog]
+---
+
+
+{% include image.html file="test.jpg" alt="test"  %}
+
+
+
+
+{% include links.html %}

@@ -3,6 +3,6 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-_pdf
+pdf/
 .idea/
 .DS_Store
