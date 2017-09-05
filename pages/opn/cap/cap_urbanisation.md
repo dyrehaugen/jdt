@@ -1,5 +1,5 @@
 ---
-title: Capitalism - Clustering Humanity
+title: Capitalism - Heaping Up Humanity
 keywords: capitalism
 last_updated: August 3, 2017
 tags: [capitalism, urbanisation]

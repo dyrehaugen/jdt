@@ -1,5 +1,5 @@
 ---
-title: Capitalism - Undermining Democracy
+title: Capitalism - Shrinking Democracy
 keywords: capitalism
 last_updated: August 3, 2017
 tags: [capitalism]
@@ -14,7 +14,7 @@ folder: opn
 ---
 
 
-## Closing down Democracy
+## Shrinking Democracy
 
 Recent time Capitalism contains two trends:
 

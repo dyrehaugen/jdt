@@ -23,13 +23,13 @@ entries:
     - title: No more Progress
       url: /cap_progress.html
       output: web
-    - title: Buying Democracy
+    - title: Shrinking Democracy
       url: /cap_democracy.html
       output: web
     - title: Exhausting Nature
       url: /cap_environment.html
       output: web
-    - title: Stacking up Humanity
+    - title: Heaping up Humanity
       url: /cap_urbanisation.html
       output: web
 
