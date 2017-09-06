@@ -1,8 +1,8 @@
 ---
-title: Introduction
-sidebar: dyr_sidebar
-permalink: dyr_blogs.html
-folder: dyr
+title: Blogs Overview
+sidebar: sec_sidebar
+permalink: sec_blogs.html
+folder: sec
 ---
 
 ## Dyrehaugen blogs
@@ -20,9 +20,12 @@ on a computer at Dyrehaugen.
 * [WPDHN](http://dyrehaugen.ddns.net:81/wpdhn)
 * [WPFAM](http://dyrehaugen.ddns.net:81/wpfam)
 * [JDT](http://dyrehaugen.ddns.net:81/jdt)
-* 
+*
+
+{% comment %}
 ## Getting started
 
 To get started, see [Getting Started][index].
+{% endcomment %}
 
 {% include links.html %}

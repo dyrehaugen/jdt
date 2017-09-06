@@ -1,7 +1,7 @@
 ---
 title:  "Photographing Dogs"
 categories: news
-permalink: newsphotographingdogs.html
+permalink: news-170729-photographing-dogs.html
 tags: [news]
 ---
 

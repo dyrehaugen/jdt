@@ -17,7 +17,7 @@ topnav_dropdowns:
     - title: Sections
       folderitems:
         - title: Overview
-          url: /dyr_intro.html
+          url: /sec_intro.html
         - title: Activities
           url: /act_intro.html
         - title: Experience
@@ -33,28 +33,30 @@ topnav_dropdowns:
 
     - title: Links
       folderitems:
-        - title: Parallel Test Blog (Bruce based)
-          external_url: http://dyrehaugen.ddns.net:81/jdh
+        - title: English Blog (Jekyll)
+          external_url: http://dyrehaugen.ddns.net:81/jde
+        - title: Norwegian Blog (Jekyll)
+          external_url: http://dyrehaugen.ddns.net:81/jdn
         - title: English Blog (html)
           external_url:  http://dyrehaugen.ddns.net:81/dhe
-        - title: Norsk Blog (html)
+        - title: Norwegian Blog (html)
           external_url:  http://dyrehaugen.ddns.net:81/dhn
         - title: English Blog (wordpress)
           external_url:  http://dyrehaugen.ddns.net:81/wpdhe
-        - title: Norsk Blog (wordperss)
+        - title: Norwegian Blog (wordpress)
           external_url:  http://dyrehaugen.ddns.net:81/wpdhn
         - title: Family Site (wordpress) (login required)
           external_url:  http://dyrehaugen.ddns.net:81/wpfam
-        - title: JRW56
+        - title: Prospect JRW56
           external_url:  http://dyrehaugen.ddns.net:81/jrw56
-        - title: Greco51
+        - title: Prospect Greco51
           external_url:  http://dyrehaugen.ddns.net:81/greco51
         - title: WebCameras at JRW56 (last hour)
           external_url:  http://dyrehaugen.ddns.net:81/cam
         - title: Temperature logger at JRW56
           external_url:  http://dyrehaugen.ddns.net:81/tsl
-        - title: Jekyll Documentation Theme (on dyrehaugen server)
-          external_url:  http://dyrehaugen.ddns.net:81/jekdoctheme
+        - title: This site on Github
+          external_url:  https://dyrehaugen.github.io/jdt
         - title: Github Repo for this site
           external_url: https://github.com/dyrehaugen/jdt
 # EOF

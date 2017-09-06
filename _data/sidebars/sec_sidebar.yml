@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Sections
+  - title: Navigation
     output: web
     folderitems:
     - title: Overview
@@ -23,11 +23,11 @@ entries:
     - title: Varia
       url: /var_intro.html
       output: web
-    - title: GRC
-      url: /grc_intro.html
+    - title: Norway
+      url: /nor_intro.html
       output: web
-    - title: JRW
-      url: /jrw_intro.html
+    - title: Gran Canaria
+      url: /grc_intro.html
       output: web
 
 # EOF

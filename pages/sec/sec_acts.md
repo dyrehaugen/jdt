@@ -1,11 +1,11 @@
 ---
-title: Introduction
-sidebar: dyr_sidebar
-permalink: dyr_acts.html
-folder: dyr
+title: Activities Overview
+sidebar: sec_sidebar
+permalink: sec_acts.html
+folder: sec
 ---
 
-## Dyre Haugen Activities
+## Activities
 
 Activities includes dogs, hiking, swimming, travelling, blogging.
 
@@ -16,8 +16,10 @@ Activities includes dogs, hiking, swimming, travelling, blogging.
 * Swimming
 * Traveling
 
+{% comment %}
 ## Getting started
 
 To get started, see [Getting Started][index].
+{% endcomment %}
 
 {% include links.html %}

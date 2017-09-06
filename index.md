@@ -1,72 +1,70 @@
 ---
-title: Dyre Haugen - Collections
+title: Dyre Haugen 
 keywords: homepage
 tags: [homepage]
 sidebar: home_sidebar
 permalink: index.html
-summary: This site is the central web node for Dyre Haugen. The various 'Sections' includes documents collected here, while 'Links' point to material external to this site. There are as well News and Blog. The 'Nav' button on the main meny toggles the sidebar meny for each section on or off. A brief introduction to this and the related sites is given below. 
-
+summary: This site is the central web node for Dyre Haugen. The various 'Sections' includes documents collected here, while 'Links' point to material external to this site. There are as well News and Blog.  
 ---
 
-## Dyre Haugen
+# Welcome
 
-Dyre Haugen is me writing here.
-Dyrehaugen is where I live.
+Reflecting my life as a 'Jack of all trades' - or at least *some* trades -
+this site is a collection of very different contents.
+It is at any time WIP - Work In Progress - do not expect a polished/
+finished experience. The site is a mirror of my workdesk as it shows
+up in any moment - a place to put 'papers and notes' in our paperless era.
+Some parts may thus look more finished than others.
+You are invited to join a process, not read the final thesis!
+Your comments may - as you will se - be supplied on 'Disqus'
 
-### 1. Activities
+The 'Nav' button on the main meny toggles the sidebar navigation
+meny on or off. 
 
-Activities documented here include:
+Below I explain shortly what you can expect to find.
 
-*  [Dogging](act_dogs.html)
-*  [Hiking](act_hiking.html)
-*  [Swimming](act_swimming.html)
-*  [Tennis](act_tennis.html)
-*  [Other](act_other.html)
+## News
 
-### 2. Experience
+Here I sum up and comment on news related to matters that interest me
+- as it happens - no in depth treatment.
 
-Documentation of experiences is organized as follows:
 
-*  Biography
-*  CV
-*  Work
-*  Family
-*  Travels
+## Blog
 
-### 3. Opinions
+Here I write short pieces and collect references and documentation
+on issues that stay on my mind for longer periods of time.
+What I write her may well be triggered by events first showing
+up under 'News'.
 
-Experiences leads to opinions on what matters in life and society.
-I will try to explain the reasoning behind some of my most explicit
-opinions on:
 
-* [capitalism](cap_intro.html)
-* [climate change](clm_intro.html)
-* [urbanisation](urb_intro.html)
+## Sections
 
-## 4. Varia
+Here I document facts and opinions on themes that matter to me - the
+intention beeing to arrive at well underpinned viewpoints and
+positions. The stuff under *Sections* - in particular the
+*opinions* section - may well be fed by observations commented
+on in 'News' and 'Blog'.
 
-Material on other issues that might emerge will be put here -
-at least intially. What grows might later be turned into new sections
-in it's own right.
-Right now there is one theme covered here:
+As for now the themes are grouped under three broad headings/sections:
 
-* [minsky](minsky.html)
+* [Activities](act_intro.html)
+* [Experience](exp_intro.html)
+* [Opinions](opn_intro.html)
 
-## 5. Norway
+In addition there is a fourth category - for anything else:
 
-Staying in Asker, close to Oslo, with the fjord and mountains ut to 400m
-within walking range, 'JRW56' is my homestead Up North.
-I would like to document the qualities of Norway - and my own place in
-particular - as a living environment.
+* [Varia](var_intro.html)
 
-* [norway](nor_intro.html)
+I have also wanted to document the two places on Earth where I
+stay more permanently. These sections are:
 
-## 6. Gran Canaria
+* [Norway](nor_intro.html)
+* [Gran Canaria](grc_intro.html)
 
-On Gran Canaria - a small bungalow named 'Greco51' is my homestead Down South -
-a place to enjoy the sun even in the winter time - without losing the
-sight of snow (on top of Mount Teide - 3500 m)
+## Links
 
-* [gran canaria](grc_intro.html)
+The links are to some of my related web content - external to this site.
+
+
 
 {% include links.html %}

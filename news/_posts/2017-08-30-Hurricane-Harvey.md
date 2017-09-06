@@ -1,7 +1,7 @@
 ---
 title:  "Hurricane Harvey"
 categories: news
-permalink: newshurricaneharvey.html
+permalink: news-170830_hurricane-harvey.html
 tags: [news]
 ---
 

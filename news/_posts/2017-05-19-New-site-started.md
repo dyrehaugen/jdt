@@ -1,7 +1,7 @@
 ---
 title:  "New Site Started"
 categories: news
-permalink: newsitestarted.html
+permalink: news-170519-new-site-started.html
 tags: [news]
 ---
 
