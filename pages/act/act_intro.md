@@ -3,17 +3,20 @@ title: Activities Overview
 keywords: activities
 last_updated: May 17, 2017
 tags: [activities]
-summary: "Activities comprises dogging, hiking, tennis and other"
+summary: "Activities includes 'doggong', ...."
 sidebar: act_sidebar
 permalink: act_intro.html
 folder: act
 ---
 
-## Dogs
+## [Dogs](/act_dogs.html)
 
 One of my great addictions in life is dogs.
-[Dooging](act_dogs.html)
 
+
+
+
+{% comment %}
 ## Hiking
 
 [Hiking](act_hiking.html)
@@ -31,6 +34,10 @@ One of my great addictions in life is dogs.
 ## Other
 
 [Other](act_other.html)
+
+{% endcomment %}
+
+
 
 
 {% include links.html %}

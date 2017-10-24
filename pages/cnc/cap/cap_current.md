@@ -1,13 +1,33 @@
 ---
 title: How Current Capitalism Works
 keywords: capitalism
-last_updated: August 3, 2017
+last_updated: September 24, 2017
 tags: [capitalism]
 summary: "How Current Capitalism Works"
 sidebar: cap_sidebar
 permalink: cap_current.html
 folder: opn
 ---
+
+## Globalisation
+
+### International Imbalances
+
+Current Account Balances, Actual and Forecast (2017-2022): US, China, and Germany (% of GDP)
+{% include image.html file="current_account.jpeg" alt="current_account"  %}
+Sources: Historical Statistics of the United States, Economic Report of the President, IMF World Economic Outlook.
+[(Carmen Reinhardt)](https://www.project-syndicate.org/commentary/unbalanced-america-external-deficit-by-carmen-reinhart-2017-08)
+
+### Nationalism
+
+*The appearance of a Catalan state would be
+only another facet of a slow dismantling process emerging all over the world, pushed
+forward – surprisingly – by globalisation.*
+
+[Nationalism and Catalonia](https://www.theguardian.com/commentisfree/2017/sep/23/catalans-not-alone-across-the-world-people-yearn-to-govern-themselves)
+
+[Homage to Catalonia](news-170924-Homage-to-Catalonia)
+
 
 ### Monetary Policy
 
@@ -24,21 +44,13 @@ Indeed, the more independent a central bank is, the greater the role of fiscal p
 Money and government debt are now so intertwined that the analytical basis for central bank autonomy has disappeared.
 [(Yanis Varoufakis)](https://www.project-syndicate.org/commentary/fiscal-money-end-central-bank-independence-by-yanis-varoufakis-2017-08)
 
-#### Crytocurrencies
+#### Cryptocurrencies
 
 The market capitalization of cryptocurrencies amounts to nearly one tenth the value of the physical stock of official gold, with the capability to handle significantly larger payment operations, owing to low transaction costs. That means that cryptocurrencies are already systemic in scale. 
 The Central Banks can try to reign in cryptocurrencies but the genie is out of the bottle: the entire model that the combination of governments and Central Banks operate is already under huge threat.
 Technology basically allows barter to operate on an industrial scale. Technology platforms now open the possibility of direct peer-to-peer transactions, entirely bypassing all banking - retail, merchant and Central. This essentially means the insertion point that governments had into all transactions is lost - which then makes it extremely difficult to extract tax from transactions. 
 
 [(Sheng/Geng)](https://www.project-syndicate.org/commentary/bitcoin-cryptocurrencies-monetary-risk-by-andrew-sheng-and-xiao-geng-2017-08)
-
-
-### International Imbalances
-
-Current Account Balances, Actual and Forecast (2017-2022): US, China, and Germany (% of GDP)
-{% include image.html file="current_account.jpeg" alt="current_account"  %}
-Sources: Historical Statistics of the United States, Economic Report of the President, IMF World Economic Outlook.
-[(Carmen Reinhardt)](https://www.project-syndicate.org/commentary/unbalanced-america-external-deficit-by-carmen-reinhart-2017-08)
 
 
 

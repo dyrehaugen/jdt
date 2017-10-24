@@ -1,69 +1,70 @@
 ---
 title: Sections Overview
-sidebar: sec_sidebar
+sidebar: home_sidebar
 permalink: sec_intro.html
 folder: sec
 ---
 
-### 1. Activities
+### 1. [Activities](/act_intro.html)
 
-Activities documented here include:
+This section comprises stuff on various activities I am involved in,
+starting out with [Dogging](act_dogs.html).
+I intend to expand with [Hiking](act_hiking.html),
+[Swimming](act_swimming.html),
+[Tennis](act_tennis.html) and
+[Other](act_other.html)
 
-*  [Dogging](act_dogs.html)
-*  [Hiking](act_hiking.html)
-*  [Swimming](act_swimming.html)
-*  [Tennis](act_tennis.html)
-*  [Other](act_other.html)
+### 2. [Experience](/exp_intro.html)
 
-### 2. Experience
-
-A lot of experiences - around the globe -
+A lot of experiences - from all walks of life, around the globe -
 how these will show up here remains to be seen ...
+may be I will focus on experiences that have had the most
+personal impact.
 
-Documentation of experiences is organized as follows:
 
-*  Biography
-*  CV
-*  Work
-*  Family
-*  Travels
+### 3. [Concerns](/cnc_intro.html)
 
-### 3. Opinions
+Experiences leads to opinions on what matters in life and society -
+in a global perspective.
+I will try to present observersations and explain the reasoning behind
+some of my most explicit opinions on issues that concerns me - like:
+[capitalism](cap_intro.html),
+[climate change](clm_intro.html)
+[environment](env_intro.html) and
+[urbanisation](urb_intro.html)
 
-Experiences leads to opinions on what matters in life and society.
-I will try to explain the reasoning behind some of my most explicit
-opinions on:
 
-* [capitalism](cap_intro.html)
-* [climate change](clm_intro.html)
-* [urbanisation](urb_intro.html)
+### 4. [Research](/res_into.html)
 
-### 4. Varia
+More in-depth exploration of particular issues of interest will be put here.
+What grows might later be turned into new sections in it's own right.
 
-Material on other issues that might emerge will be put here -
-at least intially. What grows might later be turned into new sections
-in it's own right.
+So far there is some material on
+[modelling financial instability](minsky.html)
 
-So far there is some material on *financial instability*:
 
-* [minsky](minsky.html)
+### 5. [Varia](/var_intro.html)
 
-### 5. Norway
+What does not fit anywhere is put here.
+Currently here is just some test on how to render greek letters
+and mathematical symbols with Jekyll.
+
+
+### 6. [Norway](nor_intro.html)
 
 Staying in Asker, close to Oslo, with the fjord and mountains ut to 400m
-within walking range, 'JRW56' is my homestead Up North.
+within walking range, 'Dyrehaugen' is my homestead Up North.
 I would like to document the qualities of Norway - and my own place in
 particular - as a living environment.
 
-* [norway](nor_intro.html)
 
-### 6. Gran Canaria
+### 7. [Gran Canaria](/grc_intro.html)
 
-On Gran Canaria - a small bungalow named 'Greco51' is my homestead Down South -
+On Gran Canaria - a small bungalow named 'Casa del Lobo' is my homestead
+Down South -
 a place to enjoy the sun even in the winter time - without losing the
 sight of snow (on top of Mount Teide - 3500 m)
 
-* [gran canaria](grc_intro.html)
 
  
 {% include links.html %}

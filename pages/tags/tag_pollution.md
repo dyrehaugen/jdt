@@ -1,11 +1,12 @@
 ---
-title: "Blog"
-tagName: blog
+title: "Pollution Pages"
 search: exclude
-permalink: tag_blog.html
+tagName: pollution
+permalink: tag_pollution.html
 sidebar: home_sidebar
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

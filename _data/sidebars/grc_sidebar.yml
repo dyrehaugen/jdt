@@ -11,8 +11,25 @@ entries:
     - title: Home
       url: /index.html
       output: web
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: Sections
+      url: /sec_intro.html
+      output: web
+
+
     - title: Overview Gran Canaria
       url: /grc_intro.html
       output: web
- 
+
+
+
+
 # EOF

@@ -6,9 +6,14 @@ tags: [blog]
 ---
 
 
+
+
+
+
+{% comment %}
+[here.](/minskycode.html)
+[pdf]({{ site.url}}/pdf/grasselli.pdf)
 {% include image.html file="test.jpg" alt="test"  %}
-
-
-
+{% endcomment %}
 
 {% include links.html %}

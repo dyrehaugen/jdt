@@ -26,26 +26,22 @@ entries:
       url: /sec_intro.html
       output: web
 
-  - title: Capitalism
+  - title: Concerns
     output: web
     folderitems:
-    - title: What IS Capitalism?
+    - title: Overview
+      url: /cnc_intro.html
+      output: web
+    - title: Capitalism
       url: /cap_intro.html
       output: web
-    - title: How Current Capitalism Works
-      url: /cap_current.html
+    - title: Climate Change
+      url: /clm_intro.html
       output: web
-    - title: No more Progress
-      url: /cap_progress.html
+    - title: Environment
+      url: /env_intro.html
       output: web
-    - title: Shrinking Democracy
-      url: /cap_democracy.html
-      output: web
-    - title: Exhausting Nature
-      url: /cap_environment.html
-      output: web
-    - title: Agglomerating Humankind
-      url: /cap_urbanisation.html
+    - title: Urbanisation
+      url: /urb_intro.html
       output: web
 
-# EOF

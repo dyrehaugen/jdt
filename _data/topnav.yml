@@ -9,6 +9,8 @@ topnav:
       url: /news.html   
     - title: Blog
       url: /blog.html   
+    - title: Tweets
+      url: /tweets.html   
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -22,8 +24,10 @@ topnav_dropdowns:
           url: /act_intro.html
         - title: Experience
           url: /exp_intro.html
-        - title: Opinions
-          url: /opn_intro.html
+        - title: Concerns
+          url: /cnc_intro.html
+        - title: Research
+          url: /res_intro.html
         - title: Varia
           url: /var_intro.html
         - title: Norway

@@ -11,17 +11,37 @@ entries:
     - title: Home
       url: /index.html
       output: web
-    - title: Varia Overview
-      url: /var_intro.html
+    - title: News
+      url: /news.html
       output: web
-    - title: Minsky
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: Sections
+      url: /sec_intro.html
+      output: web
+
+  - title: Research 
+    output: web
+    folderitems:
+    - title: Overview
+      url: /res_intro.html
+      output: web
+
+  - title: Financial Instability
+    output: web
+    folderitems:
+    - title: Math
       url: /minsky.html
-      output: web
-    - title: Plots
-      url: /minskyplots.html
       output: web
     - title: Code
       url: /minskycode.html
+      output: web
+    - title: Output
+      url: /minskyplots.html
       output: web
     - title: Data
       url: /minskydata.html

@@ -12,7 +12,8 @@ site_title: Dyrehaugen
 company_name: Dyrehaugen
 # this appears in the footer
 
-github_editme_path: dyrehaugen/jdt/blob/gh-pages/
+github_editme_path: 
+# github_editme_path: dyrehaugen/jdt/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: dyrehaugen
@@ -97,6 +98,7 @@ sidebars:
 - cap_sidebar
 - clm_sidebar
 - dyr_sidebar
+- env_sidebar
 - exp_sidebar
 - grc_sidebar
 - home_sidebar

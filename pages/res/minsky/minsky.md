@@ -1,9 +1,9 @@
 ---
-title: Minsky
+title: Modelling Financial Instability
 keywords: varia
 last_updated: July 10, 2017
 tags: [varia]
-summary: "Modelling Minsky"
+summary: "A C++ program to modell financial instability based on Steve Keen andMatheus Grasselli"
 sidebar: minsky_sidebar
 permalink: minsky.html
 folder: var

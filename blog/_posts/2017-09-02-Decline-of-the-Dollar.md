@@ -33,7 +33,7 @@ A further clue is the compostion of the debt.
 
 So - the Minotaur is still alive, even after the 2008 financial crisis.
 
-However, recents signs points to decreased role of the Dollar as the major
+However, recents signs point to decreased role of the Dollar as the major
 reserve currency. Reform or Replacemnet of The Bretton Wood's institutions
 are long
 [overdue](https://www.project-syndicate.org/onpoint/saving-the-international-economic-order-by-paola-subacchi-2017-09?utm_source=Project+Syndicate+Newsletter&utm_campaign=263bdc8ba9-op_newsletter_2017_9_1&utm_medium=email&utm_term=0_73bad5b7d8-263bdc8ba9-105543865)

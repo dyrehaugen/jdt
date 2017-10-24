@@ -26,26 +26,26 @@ entries:
       url: /sec_intro.html
       output: web
 
-  - title: Capitalism
+  - title: Environment
     output: web
     folderitems:
-    - title: What IS Capitalism?
-      url: /cap_intro.html
+    - title: Overview
+      url: /env_intro.html
       output: web
-    - title: How Current Capitalism Works
-      url: /cap_current.html
+    - title: Biodiversity
+      url: /env_biodiversity.html
       output: web
-    - title: No more Progress
-      url: /cap_progress.html
+    - title: Forest Degradation
+      url: /env_forest.html
       output: web
-    - title: Shrinking Democracy
-      url: /cap_democracy.html
+    - title: Oceans
+      url: /env_oceans.html
       output: web
-    - title: Exhausting Nature
-      url: /cap_environment.html
+    - title: Pollution
+      url: /env_pollution.html
       output: web
-    - title: Agglomerating Humankind
-      url: /cap_urbanisation.html
+    - title: Soil Degradation
+      url: /env_soil.html
       output: web
 
 # EOF

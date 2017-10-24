@@ -24,27 +24,15 @@ entries:
       url: /sec_intro.html
       output: web
 
-
-  - title: Activities
+  - title: Research 
     output: web
     folderitems:
     - title: Overview
-      url: /act_intro.html
+      url: /res_intro.html
       output: web
-    - title: Dogs
-      url: /act_dogs.html
+    - title: Financial Instability
+      url: /minsky.html
       output: web
-#    - title: Hiking
-#      url: /act_hiking.html
-#      output: web
-#    - title: Swimming
-#      url: /act_swimming.html
-#      output: web
-#    - title: Tennis
-#      url: /act_tennis.html
-#      output: web
-#    - title: Other
-#      url: /act_other.html
-#      output: web
 
 # EOF
+

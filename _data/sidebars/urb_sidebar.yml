@@ -11,14 +11,30 @@ entries:
     - title: Home
       url: /index.html
       output: web
-    - title: Opinions Overview
-      url: /opn_intro.html
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: Sections
+      url: /sec_intro.html
+      output: web
+
+    - title: Concerns Overview
+      url: /cnc_intro.html
       output: web
     - title: Capitalism
       url: /cap_intro.html
       output: web
     - title: Climate Change
       url: /clm_intro.html
+      output: web
+    - title: Environment
+      url: /env_intro.html
       output: web
     - title: Urbanisation
       url: /urb_intro.html

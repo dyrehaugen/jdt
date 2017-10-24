@@ -5,29 +5,31 @@ entries:
   levels: one
   folders:
 
-  - title: Sections
+  - title: Navigation
+    output: web
+    folderitems:
+    - title: Home
+      url: /index.html
+      output: web
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: Sections
+      url: /sec_intro.html
+      output: web
+
+
+  - title: Experience
     output: web
     folderitems:
     - title: Overview
-      url: /dyr_intro.html
-      output: web
-    - title: Activities
-      url: /act_intro.html
-      output: web
-    - title: Experience
       url: /exp_intro.html
-      output: web
-    - title: Gran Canaria
-      url: /grc_intro.html
-      output: web
-    - title: Norway
-      url: /nor_intro.html
-      output: web
-    - title: Varia
-      url: /var_intro.html
-      output: web
-    - title: Opinions
-      url: /opn_intro.html
       output: web
 
 # EOF

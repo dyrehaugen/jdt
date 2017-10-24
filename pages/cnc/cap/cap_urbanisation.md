@@ -1,5 +1,5 @@
 ---
-title: Capitalism - Heaping Up Humanity
+title: Capitalism - Agglomerating Humankind
 keywords: capitalism
 last_updated: August 3, 2017
 tags: [capitalism, urbanisation]

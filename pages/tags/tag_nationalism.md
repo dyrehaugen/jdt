@@ -1,8 +1,8 @@
 ---
-title: "Blog"
-tagName: blog
+title: "Nationalism Pages"
 search: exclude
-permalink: tag_blog.html
+tagName: nationalism
+permalink: tag_nationalism.html
 sidebar: home_sidebar
 folder: tags
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Climate Change Pages"
 search: exclude
-tagName: climate change
+tagName: climate_change
 permalink: tag_climate_change.html
 sidebar: home_sidebar
 folder: tags
