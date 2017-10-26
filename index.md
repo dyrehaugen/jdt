@@ -1,5 +1,5 @@
 ---
-title: Dyre Haugen 
+title: Global Desktop
 keywords: homepage
 tags: [homepage]
 sidebar: home_sidebar
@@ -7,7 +7,8 @@ permalink: index.html
 summary: This site is the central web node for Dyre Haugen. The various 'Sections' includes documents collected here, while 'Links' point to material external to this site. There are as well News, Blog and Tweets.  
 ---
 
-# Welcome
+
+*Welcome to my Global Desktop*
 
 Reflecting my life as a 'Jack of all trades' - or at least *some* trades -
 this site is a collection of very different contents.
@@ -23,25 +24,29 @@ meny on or off.
 
 Below I explain shortly what you can expect to find.
 
-## [News](/news.html)
+## News
 
 Here I sum up and comment on news related to matters that interest me
 - as it happens - no in depth treatment.
 
+[Go to News](/news.html)
 
-## [Blog](/blog.html)
+## Blog
 
 Here I write short pieces and collect references and documentation
 on issues that stay on my mind for longer periods of time.
 What I write her may well be triggered by events first showing
 up under 'News'.
 
-## [Tweets](/tweets.html)
+[Go to Blog](/blog.html)
+
+## Tweets
 
 Here I put condensed statements - facts or opinions - on any issue.
 
+[Go to Tweets](/tweets.html)
 
-## [Sections](/sec_intro.html)
+## Sections
 
 Here I report from my activities or experiences - or
 document facts and  opinions on themes that matter to me - the
@@ -65,6 +70,8 @@ These sections are:
 * [Norway](nor_intro.html)
 * [Gran Canaria](grc_intro.html)
 
+[Go to Sections Overview](/sec_intro.html)
+
 ## Links 
 
 The links (use top meny to open) are to some of my related web content -
@@ -81,5 +88,13 @@ There is as well some links to my temperature logs and webcams in Norway
 and information sites for visitors to my homesteads in Norway and on
 Gran Canaria.
 Also are provided links to the Github repo and mirror of this site.
+
+## About
+
+Dyre Haugen (penname) is retired researcher and practioneer with
+experience from various aspects of development efforts
+(social, technological and economic)
+at all scales (local, urban, regional, national, international and global)
+- today unaffiliated freelancer solely financed by own funds.
 
 {% include links.html %}

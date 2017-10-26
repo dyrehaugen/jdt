@@ -15,7 +15,7 @@ referendum material - manrolls, votes, ballot boxes etc.
 Internet sites are closed down - only to spring up at new adresses (abroad).
 Leading organisers are arrested and fined (12.000 Euro per day !!)
 The Spanish Government do not trust the Catalan Police Force (Mossos d'Esquadra).
-Three Italian Cruise ships has been chartered in Barcelona Harbour to lodge
+Three Italian Cruise ships have been chartered in Barcelona Harbour to lodge
 10.000 Guardia Civil and Policia National agents.
 
 *It could end really badly in Catalonia. Running out of their own ideas, the Spanish
@@ -23,7 +23,7 @@ government in Madrid seems to be begging advice from ancestral Castilian spirits
 And the ancestors say: “On with your breastplates, sharpen your halberds, show
 these upstarts who is master in our Kingdom.”*
 
-*democracy and freedom are judged by how far devolution
+*Democracy and freedom are judged by how far devolution
 is granted*
 
 *This is the nationalism of
