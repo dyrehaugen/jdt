@@ -9,6 +9,15 @@ permalink: env_intro.html
 folder: env
 ---
 
+Farmers and governments have been comprehensively conned by
+the global pesticide industry.
+It has ensured its products should not be properly regulated or even,
+in real-world conditions, properly assessed.
+A massive media onslaught by this industry has bamboozled us all about
+its utility and its impacts on the health of both human beings
+and the natural world.
+The profits of these companies depend on ecocide.
+
 What we need to do:
 
 1 We need a global treaty to regulate pesticides, and put the manufacturers back in their box.

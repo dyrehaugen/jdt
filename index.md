@@ -94,7 +94,7 @@ Also are provided links to the Github repo and mirror of this site.
 Dyre Haugen (penname) is retired researcher and practioneer with
 experience from various aspects of development efforts
 (social, technological and economic)
-at all scales (local, urban, regional, national, international and global)
-- today unaffiliated freelancer solely financed by own funds.
+at all scales (local, urban, regional, national, international and
+global) - today unaffiliated freelancer solely financed by own funds.
 
 {% include links.html %}
