@@ -2,7 +2,7 @@
 title:  "Explaining Capitalism"
 categories:  news
 permalink: news-171028-explaining-capitalism.html
-tags: [blog]
+tags: [news, capitalism]
 ---
 
 Yanis Varoufakis book
