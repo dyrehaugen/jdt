@@ -1,5 +1,5 @@
 ---
-title: Atmoshere Degradation
+title: Atmosphere Degradation
 keywords: environment
 last_updated: October 23, 2017
 tags: [environment, pollution]
