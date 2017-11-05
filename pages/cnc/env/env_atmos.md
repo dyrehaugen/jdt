@@ -1,11 +1,11 @@
 ---
-title: Pollution
+title: Atmoshere Degradation
 keywords: environment
 last_updated: October 23, 2017
 tags: [environment, pollution]
-summary: "Pollution Concerns"
+summary: "Atmospere degradation"
 sidebar: env_sidebar
-permalink: env_pollution.html
+permalink: env_atmos.html
 folder: env
 ---
 

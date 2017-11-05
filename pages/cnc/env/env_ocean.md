@@ -1,11 +1,11 @@
 ---
-title: Oceans
+title: Ocean
 keywords: environment
 last_updated: October 23, 2017
 tags: [environment]
-summary: "Oceans"
+summary: "Ocean"
 sidebar: env_sidebar
-permalink: env_oceans.html
+permalink: env_ocean.html
 folder: env
 ---
 

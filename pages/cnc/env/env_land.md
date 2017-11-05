@@ -1,11 +1,11 @@
 ---
-title: Soil Degradation
+title: Land Degradation
 keywords: environment
 last_updated: October 23, 2017
 tags: [environment]
-summary: "Soil degradation"
+summary: "Land degradation"
 sidebar: env_sidebar
-permalink: env_soil.html
+permalink: env_land.html
 folder: env
 ---
 

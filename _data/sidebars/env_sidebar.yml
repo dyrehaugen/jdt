@@ -32,20 +32,23 @@ entries:
     - title: Overview
       url: /env_intro.html
       output: web
+    - title: Planetary Boundaries
+      url: /env_planet.html
+      output: web
     - title: Biodiversity
       url: /env_biodiversity.html
       output: web
-    - title: Forest Degradation
-      url: /env_forest.html
+    - title: Atmosphere
+      url: /env_atmos.html
       output: web
-    - title: Oceans
-      url: /env_oceans.html
+    - title: Land
+      url: /env_land.html
       output: web
-    - title: Pollution
-      url: /env_pollution.html
+    - title: Ocean
+      url: /env_ocean.html
       output: web
-    - title: Soil Degradation
-      url: /env_soil.html
+    - title: Environmental Action
+      url: /env_action.html
       output: web
 
 # EOF
