@@ -99,11 +99,77 @@ Emissions of toxic and long-lived substances such as synthetic organic pollutant
 
 ## Constrained Economics
 
+Kate Raworth adds social minimum boundaries - an inner ring - to
+the planetary boundaries environmental outter ring - and gets
+a doughnut. Now the challenge for humankind is to change the economic
+system so that we stay within 'the doughnut'.
+Just as there is an environmental ceiling,
+beyond which lies unacceptable environmental degradation,
+so too there is a social foundation,
+below which lies unacceptable human deprivation.
+
+### 1. Food security
+
+Population undenourished (13%)
+
+### 2. Income
+
+Population living below $1.25 (ppp) per day (21%)
+
+### 3. Water and sanitation
+
+Population without access to an improved drinking water source (13%)
+
+Population without access to improved sanitation (39%)
+
+### 4. Health care
+
+Population without access to essential medicines (30%)
+
+### 5. Education
+
+Children not enrolled in primary school (10%)
+
+Illitteracy among 15-24-years-old (11%)
+
+
+### 6. Energy
+
+Population lacking access to electricity (19%)
+
+Population lacking acces to clean cooking facilities (39%)
+
+### 7. Gender equality
+
+Gender employment gap in waged work /excl. agriculture) (34%)
+
+Gender representation gap in national parlaments (77%)
+
+### 8. social equity
+
+Population living on less than the median income in countries with a
+Gini coefficient exceeding 0.35 (33%)
+
+### 9. Voice
+
+Population living in countries no permitting political participation
+or freedom of expression (?%)
+
+### 10. Jobs
+
+Labour force not employed in decent work (?%)
+
+### 11. Resilience
+
+Population facing multiple dimensions of poverty (?%)
+
 
 
 
 [Raworth](https://www.oxfam.org/en/research/safe-and-just-space-humanity)
+
 [Raworth2](https://blogs.oxfam.org/en/blog/12-02-13-can-we-live-inside-doughnut-why-world-needs-planetary-and-social-boundaries)
 
+[Raworth3 (pdf)](https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf)
 
 {% include links.html %}
