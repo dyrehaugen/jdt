@@ -45,7 +45,7 @@ So far there is some material on
 
 ### 5. [Varia](/var_intro.html)
 
-What does not fit anywhere is put here.
+What does not fit anywhere else is put here.
 Currently here is just some test on how to render greek letters
 and mathematical symbols with Jekyll.
 

@@ -1,7 +1,7 @@
 ---
 title:  "Species in Numbers"
 categories:  tweets
-permalink: tweet-171023-species-in-numbers.html
+permalink: tweets-171023-species-in-numbers.html
 tags: [environment]
 ---
 
