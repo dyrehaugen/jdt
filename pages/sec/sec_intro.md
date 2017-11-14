@@ -29,7 +29,7 @@ in a global perspective.
 I will try to present observersations and explain the reasoning behind
 some of my most explicit opinions on issues that concerns me - like:
 [capitalism](cap_intro.html),
-[climate change](clm_intro.html)
+[climate change](clm_intro.html),
 [environment](env_intro.html) and
 [urbanisation](urb_intro.html)
 
