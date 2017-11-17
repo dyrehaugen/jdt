@@ -16,9 +16,12 @@ Staying in Asker, close to Oslo, with the fjord and mountains ut to 400m within 
 
 On Gran Canaria - a small bungalow named ‘Casa del Lobo’ is my homestead Down South - a place to enjoy the sun even in the winter time - without losing the sight of snow (on top of Mount Teide - 3500 m)
 
+[Gran Canaria](/loc_canaria.html)
+
 [Norway](/loc_norway.html)
 
-[Gran Canaria](loc_canaria.html)
+[Other Locations](/loc_other.html)
+
 
 
 {% include links.html %}

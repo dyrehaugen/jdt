@@ -65,6 +65,9 @@ entries:
     - title: Gran Canaria
       url: /loc_canaria.html
       output: web
+    - title: Other Locations
+      url: /loc_other.html
+      output: web
 
   - title: Concerns
     output: web

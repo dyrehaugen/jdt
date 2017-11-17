@@ -59,16 +59,10 @@ As for now the themes are grouped under these headings:
 
 * [Activities](act_intro.html)
 * [Experience](exp_intro.html)
+* [Locations](loc_intro.html)
 * [Concerns](cnc_intro.html)
 * [Research](res_intro.html)
 * [Varia](var_intro.html)
-
-I have also wanted to collect and present material related to
-the two places on Earth where I stay more permanently.
-These sections are:
-
-* [Norway](nor_intro.html)
-* [Gran Canaria](grc_intro.html)
 
 [Go to Sections Overview](/sec_intro.html)
 

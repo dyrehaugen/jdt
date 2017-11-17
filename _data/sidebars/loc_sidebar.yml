@@ -36,6 +36,9 @@ entries:
     - title: Norway
       url: /loc_norway.html
       output: web
+    - title: Other Locations
+      url: /loc_other.html
+      output: web
 
 
 
