@@ -4,9 +4,9 @@ keywords: canaria
 last_updated: May 17, 2017
 tags: [canaria]
 summary: "Introduction to Dyre Haugen's Gran Canaria"
-sidebar: grc_sidebar
-permalink: grc_intro.html
-folder: grc
+sidebar: loc_sidebar
+permalink: loc_canaria.html
+folder: loc
 ---
 
 From November to April I stay on Gran Canaria -

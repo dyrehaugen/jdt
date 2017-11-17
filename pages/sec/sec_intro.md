@@ -21,8 +21,13 @@ how these will show up here remains to be seen ...
 may be I will focus on experiences that have had the most
 personal impact.
 
+### 3. [Locations](/loc_intro.html)
 
-### 3. [Concerns](/cnc_intro.html)
+Here I put stuff related to locations of particular interest to me.
+I start out with the two places I stay more permanently:
+[Gran Canaria](/loc_canaria.html) and [Norway](/loc_norway.html).
+
+### 4. [Concerns](/cnc_intro.html)
 
 Experiences leads to opinions on what matters in life and society -
 in a global perspective.
@@ -34,7 +39,7 @@ some of my most explicit opinions on issues that concerns me - like:
 [urbanisation](urb_intro.html)
 
 
-### 4. [Research](/res_into.html)
+### 5. [Research](/res_into.html)
 
 More in-depth exploration of particular issues of interest will be put here.
 What grows might later be turned into new sections in it's own right.
@@ -43,28 +48,11 @@ So far there is some material on
 [modelling financial instability](minsky.html)
 
 
-### 5. [Varia](/var_intro.html)
+### 6. [Varia](/var_intro.html)
 
 What does not fit anywhere else is put here.
 Currently here is just some test on how to render greek letters
 and mathematical symbols with Jekyll.
-
-
-### 6. [Norway](nor_intro.html)
-
-Staying in Asker, close to Oslo, with the fjord and mountains ut to 400m
-within walking range, 'Dyrehaugen' is my homestead Up North.
-I would like to document the qualities of Norway - and my own place in
-particular - as a living environment.
-
-
-### 7. [Gran Canaria](/grc_intro.html)
-
-On Gran Canaria - a small bungalow named 'Casa del Lobo' is my homestead
-Down South -
-a place to enjoy the sun even in the winter time - without losing the
-sight of snow (on top of Mount Teide - 3500 m)
-
 
  
 {% include links.html %}

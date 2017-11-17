@@ -4,9 +4,9 @@ keywords: norway
 last_updated: July 31, 2017
 tags: [norway, sailships]
 summary: "Introduction to Dyre Haugen's Norway"
-sidebar: nor_sidebar
-permalink: nor_intro.html
-folder: nor
+sidebar: loc_sidebar
+permalink: loc_norway.html
+folder: loc
 ---
 
 Welcome to my Norway - starting off on my small hilltop in Asker, close to the Oslofjord.

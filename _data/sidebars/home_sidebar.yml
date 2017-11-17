@@ -53,6 +53,19 @@ entries:
       url: /exp_intro.html
       output: web
 
+  - title: Locations
+    output: web
+    folderitems:
+    - title: Overview
+      url: /loc_intro.html
+      output: web
+    - title: Norway
+      url: /loc_norway.html
+      output: web
+    - title: Gran Canaria
+      url: /loc_canaria.html
+      output: web
+
   - title: Concerns
     output: web
     folderitems:
@@ -92,18 +105,5 @@ entries:
       url: /var_mathsymbols.html
       output: web
 
-  - title: Norway
-    output: web
-    folderitems:
-    - title: Overview
-      url: /nor_intro.html
-      output: web
-
-  - title: Gran Canaria
-    output: web
-    folderitems:
-    - title: Overview
-      url: /grc_intro.html
-      output: web
 
 # EOF
