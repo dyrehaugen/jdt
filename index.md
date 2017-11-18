@@ -29,7 +29,7 @@ Below I explain shortly what you can expect to find.
 Here I sum up and comment on news related to matters that interest me
 - as it happens - no in depth treatment.
 
-[Go to News](/news.html)
+[Go to News](news.html)
 
 ## Blog
 
@@ -38,13 +38,13 @@ on issues that stay on my mind for longer periods of time.
 What I write her may well be triggered by events first showing
 up under 'News'.
 
-[Go to Blog](/blog.html)
+[Go to Blog](blog.html)
 
 ## Tweets
 
 Here I put condensed statements - facts or opinions - on any issue.
 
-[Go to Tweets](/tweets.html)
+[Go to Tweets](tweets.html)
 
 ## Sections
 
@@ -64,7 +64,7 @@ As for now the themes are grouped under these headings:
 * [Research](res_intro.html)
 * [Varia](var_intro.html)
 
-[Go to Sections Overview](/sec_intro.html)
+[Go to Sections Overview](sec_intro.html)
 
 ## Links 
 
