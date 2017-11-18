@@ -19,9 +19,9 @@ Starting out with these themes:
 
 + [Capitalism](cap_intro.html)
 
-+ [Climate Change](clm_intro.md)
++ [Climate Change](clm_intro.html)
 
-+ [Environment](env_intro.md)
++ [Environment](env_intro.html)
 
 + [Urbanisation](urb_intro.html)
 
