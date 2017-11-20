@@ -1,7 +1,7 @@
 ---
 title:  "Ocean Plastics Tax"
 categories:  news
-permalink: news-171118-ocean-plastics-tax.md
+permalink: news-171118-ocean-plastics-tax.html
 tags: [news, environment]
 ---
 

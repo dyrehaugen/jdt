@@ -171,8 +171,38 @@ are just another way to justify rising values of their property portfolios.
 
 [Next Big Future](https://www.nextbigfuture.com/2017/10/google-urbanism-plans-data-extraction-from-smart-cities-but-splits-revenue-with-cities.html)
 
+### Rodrik's trilemma
+
+According to the Harvard economist Dani Rodrik, it is impossible to have full national sovereignty, democracy, and globalization simultaneously.
+
+Rodrik’s argument is that too much globalization erodes the sovereignty of democratic nation-states, by increasingly subjecting them to economic and financial forces that may not correspond with the wishes of the domestic majority. By this logic, an authoritarian state may function better in a globalized world, because it is unconstrained by, say, electoral concerns.
+
+With less globalization, democratic decision-making within the nation-state would be less constrained by external forces – particularly financial markets – meaning that its scope would be wider. Globalization and democracy, without the nation-state, is also possible, though Rodrik is skeptical about whether democratic institutions could function on a global scale.
+
+Today’s widespread disillusionment with government is partly a backlash against globalization, which has seemed to impose itself on nation-states. But another reason for the disillusionment may be that citizens feel disconnected from their national governments.
+
+Rodrik’s political trilemma have been on stark display in Catalonia, where the tension between local democracy and the nation-state is even more acute than that with globalization. Indeed, many Catalans are more frustrated with Spain’s national government than they are with either globalization or the EU. The same can be said of Scotland vis-à-vis the United Kingdom.
+
+Cities are the centers of innovation and progress, as the promise of agglomeration, economies of scale, and positive spillovers attract high-performing firms. Citizens feel close to their municipal governments and proud of their cities, but their pride in their identity does not have the damaging qualities of nationalism.
+
+As the nation-state cedes some of its power to regional, state, or municipal governments, the trilemma weakens. Both democracy, with its concomitant sense of belonging, and globalization, driven by cosmopolitan cities open to the world, can thrive, without causing any country to lose sovereignty.
+1
+
+There are serious risks. As successful metropolitan areas attract a growing share of a country’s capital, skilled labor, and innovative capacity, rural areas, in particular, are likely to face economic decline: fewer job opportunities, closure of hospitals and schools, and deteriorating infrastructure.
+
+*Have we reached the phase of (financial) capitalism where cities  start
+to disconnect both from their nation-states and from their rural hinterland?
+Is the spectre of Paul Romer's 'Charter Cities' - closed localities escaping
+the (nation-state's) demanding regulations and restriction, living in
+symbiosis with similar other cities - all self-sufficient - leaving the
+rural world behind? May be time has come for nature to take back the
+rural districts and move each and everyone of humankind away and into such
+glorious cities?*
 
 
+[Kemal Dervis](https://www.project-syndicate.org/commentary/political-trilemma-democratic-globalization-by-kemal-dervis-2017-11)
+
+[Charter Cities](cap_urbanisation.html#charter-cities)
 
 
 {% include links.html %}
