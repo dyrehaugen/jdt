@@ -31,6 +31,8 @@ How did I really learn it?
 * Listening
 * Speaking
 * Writing
+* Insight
+* Wisdom
 * ?
 
 Are these the important features of what I am today?

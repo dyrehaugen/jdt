@@ -11,18 +11,18 @@ folder: env
 
 ### Planetary Boundaries
 
-[Go to Planetary Boundaries](/env_planet.html)
+[Go to Planetary Boundaries](env_planet.html)
 
 ### Biodiversity
 
-[Go to Biodiversity](/env_biodiversity.html)
+[Go to Biodiversity](env_biodiversity.html)
 
 
 ### Atmossphere
 
 #### Pollution
 
-[Go to Atmosphere](/env_atmos.html)
+[Go to Atmosphere](env_atmos.html)
 
 ### Land
 
@@ -30,7 +30,7 @@ folder: env
 
 #### Soil
 
-[Go to Land](/env_land.html)
+[Go to Land](env_land.html)
 
 
 
@@ -40,12 +40,12 @@ folder: env
 
 #### Plastic contamination
 
-[Go to Oceans](/env_oceans.html)
+[Go to Oceans](env_oceans.html)
 
 
 ### Environmental Action
 
-[Go to Environmenta Action](/env_action.html)
+[Go to Environmenta Action](env_action.html)
 
 
 {% include links.html %}
