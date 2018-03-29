@@ -11,8 +11,7 @@ folder: loc
 
 From November to April I stay on Gran Canaria -
 in the dessert - deep South.
-One of the attractions is this view - from my terrace on a clear winter day
-- to the snowcapped peak of Teide.
+One of the attractions is this view - from my terrace on a clear winter day - to the snowcapped peak of Teide.
 
 {% include image.html file="teide_150222.jpg" alt="teide"  %}
 

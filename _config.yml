@@ -16,7 +16,8 @@ github_editme_path:
 # github_editme_path: dyrehaugen/jdt/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: dyrehaugen
+disqus_shortname: 
+# disqus_shortname: dyrehaugen
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 host: 127.0.0.1
@@ -114,7 +115,7 @@ sidebars:
 - product2_sidebar
 
 
-description: "Dyre Haugen Comprehensive Site"
+description: "Dyrehaugen Global Desktop"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

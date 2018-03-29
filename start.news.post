@@ -1,8 +1,8 @@
 ---
-title:  "New Post"
-categories:  blog
-permalink: new-post.html
-tags: [blog]
+title:  "News Post"
+categories:  news
+permalink: news-YYMMDD-post.html
+tags: [news]
 ---
 
 
