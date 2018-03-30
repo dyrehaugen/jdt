@@ -16,7 +16,7 @@ url: https://dyrehaugen.github.io/jdt
 
 
 # Must have jdt in url as above! baseurl as set below does not work
-# baseurl: /jdt
+baseurl: /jdt
 # https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 # https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
 
