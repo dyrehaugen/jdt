@@ -3,7 +3,7 @@ title: Atmosphere Degradation
 keywords: environment
 last_updated: October 23, 2017
 tags: [environment, pollution]
-summary: "Atmospere degradation"
+summary: "Atmosphere degradation"
 sidebar: env_sidebar
 permalink: env_atmos.html
 folder: env
