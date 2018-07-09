@@ -133,7 +133,17 @@ industry—bankrolling the former and allowing the latter to trade govern-
 ment debt for profit—they also help to keep public debt at a level where states
 can still be trusted by their private creditors.
 
+So far Streeck/Vogl. Today The Guardian has a article on the replacement of
+Mark Carney as head of Bank of England - foreseen to come just after Brexit
+comes into effect. Carney is charcterized this way: ...
+*one of the few senior policymakers taking measured decisions in the national interest rather than the narrow party interest that dominates parliament. So it’s a tall order finding a replacement.*
+
+Parliamentary democracy seems to be lost in a cul-de-sac.
+Luckily we can count on the New Enlightened Rulers of the Central Banks.
+
 [Wolfgang Streeck](https://wolfgangstreeck.com/2018/05/09/the-fourth-power/) [pdf]({{ site.url}}/pdf/Wolfgang_Streeck_2018_The_Fourth_Power.pdf)
+
+[The Guardian](https://www.theguardian.com/business/2018/jun/23/bank-of-england-new-boss-new-problems-brexit)
 
 ## Globalization
 
