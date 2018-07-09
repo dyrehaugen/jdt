@@ -1,5 +1,4 @@
-
-1;4601;0c---
+---
 title:  "Money Rules"
 categories:  tweet
 permalink: tweets-1806623-money-rules.html
