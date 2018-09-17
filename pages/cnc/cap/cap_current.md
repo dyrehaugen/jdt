@@ -141,9 +141,44 @@ comes into effect. Carney is charcterized this way: ...
 Parliamentary democracy seems to be lost in a cul-de-sac.
 Luckily we can count on the New Enlightened Rulers of the Central Banks.
 
+*Yanis Varoufakis* adds a different twist to this analysis in his comment on
+Project Syndicat in August 2018:
+
+Austerity prevails in the West
+because three powerful political tribes champion it.
+Enemies of big government have coalesced with European social democrats and
+tax-cutting US Republicans,
+to create a cartel-based, hierarchical, financialized global economic system.
+
+...capitalism has been evolving.
+The vast majority of economic decisions have long ceased to be shaped by
+market forces
+and are now taken within a strictly hierarchical, though fairly loose,
+hyper-cartel of global corporations.
+Its managers fix prices, determine quantities, manage expectations,
+manufacture desires, and
+collude with politicians to fashion pseudo-markets that subsidize
+their services....
+
+...as the hyper-cartel became financialized
+(turning companies like General Motors into large speculative
+financial corporations that also made some cars),
+the aim of GDP growth was replaced with that of
+“financial resilience”:
+ceaseless paper asset inflation for the few and
+permanent austerity for the many...
+
+...an overarching dynamic that, under the guise of free-market capitalism,
+is creating a cartel-based, hierarchical, financialized global economic system.
+
+
+
 [Wolfgang Streeck](https://wolfgangstreeck.com/2018/05/09/the-fourth-power/) [pdf]({{ site.url}}/pdf/Wolfgang_Streeck_2018_The_Fourth_Power.pdf)
 
 [The Guardian](https://www.theguardian.com/business/2018/jun/23/bank-of-england-new-boss-new-problems-brexit)
+
+[Yanis Varoufakis](https://www.project-syndicate.org/commentary/three-tribes-of-austerity-by-yanis-varoufakis-2018-08)
+
 
 ## Globalization
 
