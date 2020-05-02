@@ -1,4 +1,9 @@
-echo "run.build ... Output listing in /tmp/run.build.out"
+echo "run.build ... Output listing in /tmp/build.jdt.log"
 # bundle exec jekyll build  --verbose
-# bundle exec jekyll build  --config _config.yml,_config_localhost.yml  > /tmp/run.build.out 2>&1
-bundle exec jekyll build 
+# bundle exec jekyll build  --config _config.yml,_config_localhost.yml  > /tmp/build.jdt.log 2>&1
+
+bundle exec jekyll build  > /tmp/build.jdt.log 2>&1
+
+# EOF
+
+
