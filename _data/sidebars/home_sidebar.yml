@@ -5,10 +5,10 @@ entries:
   levels: one
   folders:
 
-  - title: Navigation
+  - title: NAVIGATION
     output: web
     folderitems:
-    - title: Home
+    - title: HOME
       url: /index.html
       output: web
     - title: News
@@ -20,7 +20,7 @@ entries:
     - title: Tweets
       url: /tweets.html
       output: web
-    - title: Sections
+    - title: SECTIONS
       url: /sec_intro.html
       output: web
 

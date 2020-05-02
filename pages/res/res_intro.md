@@ -11,7 +11,7 @@ use_math: true
 ---
 
 
-### [Modelling Financial Instability](/minsky.html)
+### [Modelling Financial Instability](/jdt/minsky.html)
 
 Hyman Minsky's famous *Financial Instability Hypothesis* has been
 put into mathemathical terms by Steve Keen and Mathias Grasselli et al.

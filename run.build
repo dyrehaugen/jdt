@@ -1,0 +1,4 @@
+echo "run.build ... Output listing in /tmp/run.build.out"
+# bundle exec jekyll build  --verbose
+# bundle exec jekyll build  --config _config.yml,_config_localhost.yml  > /tmp/run.build.out 2>&1
+bundle exec jekyll build 
