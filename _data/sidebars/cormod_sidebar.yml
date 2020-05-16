@@ -30,12 +30,12 @@ entries:
     - title: Overview
       url: /res_intro.html
       output: web
-    - title: Financial Instability
-      url: /minsky.html
-      output: web
-    - title: Corona Modelling
+
+  - title: Corona Modelling
+    output: web
+    folderitems:
+    - title: Intro
       url: /cormod_intro.html
       output: web
-
+ 
 # EOF
-
