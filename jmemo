@@ -1,0 +1,6 @@
+~/zwww/jdt/jmemo
+# 200516 001
+# Add new sidebars to the list in:
+enw _config.yml
+enw _includes/custom/sidebarconfigs.html
+# EOF

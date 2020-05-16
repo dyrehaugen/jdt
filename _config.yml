@@ -1,4 +1,5 @@
 # iondog: ~/qwww/jdt/_config.yml
+# 200516 005 corona sidebar added
 # 180330 004 jdt in url, not as baseurl
 
 description: "Dyrehaugen Global Desktop"
@@ -123,6 +124,7 @@ defaults:
 sidebars:
 - act_sidebar
 - cap_sidebar
+- corona_sidebar
 - clm_sidebar
 - dyr_sidebar
 - env_sidebar

@@ -34,7 +34,7 @@ entries:
       url: /minsky.html
       output: web
     - title: Corona Modelling
-      url: /cormod_intro.html
+      url: /corona.html
       output: web
 
 # EOF

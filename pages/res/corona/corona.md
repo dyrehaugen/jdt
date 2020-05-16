@@ -3,9 +3,9 @@ title:        Modelling the Corona Outbreak
 kewords:              
 last_updated: May 16,2020    
 summary:              
-sidebar:      cormod_sidebar
-permalink:    cormod_intro.html  
-folder:       cormod 
+sidebar:      corona_sidebar
+permalink:    corona.html  
+folder:       corona 
 ---    
 
 

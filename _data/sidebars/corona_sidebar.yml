@@ -35,7 +35,16 @@ entries:
     output: web
     folderitems:
     - title: Intro
-      url: /cormod_intro.html
+      url: /corona.html
       output: web
- 
+    - title: Code
+      url: /coronacode.html
+      output: web
+    - title: Output
+      url: /coronaout.html
+      output: web
+    - title: Data
+      url: /coronadata.html
+      output: web
+
 # EOF
