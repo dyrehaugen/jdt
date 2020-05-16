@@ -80,7 +80,7 @@ Links and pdfs:
 
 [Blasius Julia Github Repository](https://github.com/berndblasius/Covid19)
 
-[Dyrehaugen Jupyter Notebook on Github](https://github.com/dyrehaugen/jcorona/blob/master/corona.ipynb)
+[Dyrehaugen Jupyter Notebook on Github (Julia Code)](https://github.com/dyrehaugen/jcorona/blob/master/corona.ipynb)
 
 {% include links.html %}
 

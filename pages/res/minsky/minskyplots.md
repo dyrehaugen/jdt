@@ -17,9 +17,9 @@ Some plots from Minsky runs:
 {% include image.html file="minsky.4.png" %}
 
 
-The C++ code can be found [here.](/minskycode.html)
+The C++ code can be found [here.](/jdt/minskycode.html)
 
-Back to Minsky [here.](/minsky.html)
+Back to Minsky [here.](/jdt/minsky.html)
 
 {% include links.html %}
 

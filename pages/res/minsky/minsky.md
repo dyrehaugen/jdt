@@ -97,7 +97,7 @@ so that speculation increases with the growth rate.
 
 
 
-The C++ code can be found [here.](/minskycode.html)
+The C++ code can be found [here.](/jdt/minskycode.html)
 
 
 {% include links.html %}
