@@ -1,0 +1,6 @@
+cp ~/zjul/corona/wrld/data/confirmed.csv csv
+cp ~/zjul/corona/wrld/data/deaths.csv csv
+cp ~/zjul/corona/wrld/data/recovered.csv csv
+
+cp ~/zjul/corona/wrld/jmh/dfs/df_cfm.csv csv
+cp ~/zjul/corona/wrld/jmh/dfs/df_dth.csv csv
