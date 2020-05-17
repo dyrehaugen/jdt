@@ -37,14 +37,17 @@ entries:
     - title: Intro
       url: /corona.html
       output: web
+    - title: Data
+      url: /coronadata.html
+      output: web
+    - title: Analysis
+      url: /coronaanalysis.html
+      output: web
     - title: Code
       url: /coronacode.html
       output: web
     - title: Output
       url: /coronaout.html
-      output: web
-    - title: Data
-      url: /coronadata.html
       output: web
 
 # EOF

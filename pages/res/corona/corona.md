@@ -8,8 +8,6 @@ permalink:    corona.html
 folder:       corona 
 ---    
 
-
-
 Epidemological modelling has come into focus due to the Corona Crisis.
 [The Basic Reproduction Number (R0)](https://en.wikipedia.org/wiki/Basic_reproduction_number)
 is a core indicator,
@@ -48,22 +46,25 @@ empirical treatment. This approach is in more detail described in *Wallinga and 
 WT show that the relative likelihood $$p_{ij}$$ that case $$_{i}$$ has been infected by
 case $$_{j}$$, given their difference in time of symptom onset $$t_{i} – t_{j}$$ ,
 can be expressed in terms of the probability distribution for the generation interval.
+This property makes analysis of outbreaks possible even if detailed generation studies
+have not yet been performed.
 
+The further presentation here is split into 4 sections as follows:
 
+[Data](/jdt/coronadata.html)
 
+[Analysis](/jdt/coronaanalysis.html)
 
+[Code](/jdt/coronacode.html)
 
-
-
-
-
+[Output](/jdt/coronaout.html)
 
 There exists a R implementation in the [R0 Package](https://rdrr.io/cran/R0/) on
 [cran r](https://cran.r-project.org/), described in *Obadia(2012)*.
 Here we implement the methods by means of [Julia](https://julialang.org/) code.
-
-
-
+*Bernd Blasius Github Repository* contains data and Julia code for more complete
+epidemologic (SEIR) modelling of the corona outbreak.
+*Peter Turchin Github Repository* contains another R SIRD-model for Corona Analysis.
 
 Links and pdfs:
 
@@ -80,15 +81,14 @@ Links and pdfs:
 
 [Blasius Julia Github Repository](https://github.com/berndblasius/Covid19)
 
+[Turchin R Github Repository](https://github.com/pturchin/CSH-Covid-19-Project)
+
 [Dyrehaugen Jupyter Notebook on Github (Julia Code)](https://github.com/dyrehaugen/jcorona/blob/master/corona.ipynb)
 
 {% include links.html %}
 
-
 [//]: # [reference](url)
 [//]: # [pdf]({{ site.url}}/pdf/pdffile.pdf) 
-
-
 
 [//]: # Given a *generation interval distribution* for the disease and *empirical observations* of
 [//]: # the outbreak, the Basic Reproduction Number can be estimated. (Formula (3.6) in WL):
