@@ -13,6 +13,8 @@ Select one of:
 url: https://dyrehaugen.github.io/jdt
 #url: http://localhost/jdt
 
+site.baseurl: /jdt
+
 ### End of variant settings ###
 
 
