@@ -34,7 +34,7 @@ entries:
   - title: Corona Modelling
     output: web
     folderitems:
-    - title: Intro
+    - title: Model
       url: /corona.html
       output: web
     - title: Data

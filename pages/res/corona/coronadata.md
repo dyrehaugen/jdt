@@ -28,9 +28,9 @@ The first four columns are
 Then follows one column per date, starting January 22, 2020.
 The repository is updated daily.
 The downloaded files as used here can be accessed as follows:
-[confirmed]({{ site.url}}/csv/confirmed.csv)
-[deaths]({{ site.url}}/csv/deaths.csv)
-[recovered]({{ site.url}}/csv/recovered.csv)
+[confirmed]({{ site.url}}/csv/corona/confirmed.csv)
+[deaths]({{ site.url}}/csv/corona/deaths.csv)
+[recovered]({{ site.url}}/csv/corona/recovered.csv)
 
 
 For the analysis here I select a few countries of particular interest to me:
@@ -84,7 +84,7 @@ julia> df_cfm
 │ 116 │ 2020-05-16 │ 7805.0    │ 54989.0 │ 233142.0 │ 8237.0  │ 9268.0  │ 276505.0 │ 29677.0 │ 3025.0   │
 ```
 
-These are the data for confirmed cases. The csv-file can be accessed [here]({{ site.url}}/csv/df_cfm.csv)
+These are the data for confirmed cases. The csv-file can be accessed [here]({{ site.url}}/csv/corona/df_cfm.csv)
 
 
 For Death the data looks like this:
@@ -128,18 +128,22 @@ julia> df_dth
 │ 115 │ 2020-05-15 │ 356.0     │ 8959.0  │ 14817.0 │ 232.0   │ 260.0   │ 27459.0 │ 3646.0  │ 56.0     │
 │ 116 │ 2020-05-16 │ 363.0     │ 9005.0  │ 15633.0 │ 232.0   │ 266.0   │ 27563.0 │ 3674.0  │ 56.0     │
 ```
-The csv-file with data for number of *deaths* can be accessed [here]({{ site.url}}/csv/df_dth.csv)
+The csv-file with data for number of *deaths* can be accessed [here]({{ site.url}}/csv/corona/df_dth.csv)
 
-The data for *recovered* is of lesser quality and I do not present those here.
+
 
 To get an idea of how this data looks I make some simple plots:
 
-{% include image.html file="cfm_02.png" alt="cfm_02.png"  %}
+{% include image.html file="corona/cfm_02.png" alt="cfm_02.png"  %}
 
-{% include image.html file="dth_02.png" alt="dth_02.png"  %}
+{% include image.html file="corona/dth_02.png" alt="dth_02.png"  %}
+
+{% include image.html file="corona/rcv_02.png" alt="rcv_02.png"  %}
 
 The immediate impression is that the data looks like typical epidemic outbreaks,
 although the various countries are in dirrent phases and differently hard hit.
+The data for recovered obviously are of less quality and irregular/lack of reporting.
+The csv-file with data for number of *recovered* can be accessed [here]({{ site.url}}/csv/corona/df_rcv.csv)
 
 Go to the [Analysis Chapter]({{ site.url}}/coronaanalysis.html)
 

@@ -1,2 +1,6 @@
-cp ~/zjul/corona/wrld/jmh/figs/cfm_02.png images
-cp ~/zjul/corona/wrld/jmh/figs/dth_02.png images
+cp ~/zjul/corona/wrld/jmh/figs/cfm_02.png images/corona
+cp ~/zjul/corona/wrld/jmh/figs/cfm_05.png images/corona
+cp ~/zjul/corona/wrld/jmh/figs/dth_02.png images/corona
+cp ~/zjul/corona/wrld/jmh/figs/rcv_02.png images/corona
+cp ~/zjul/corona/wrld/jmh/figs/dth_03.png images/corona
+

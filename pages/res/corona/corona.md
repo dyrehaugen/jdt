@@ -51,13 +51,13 @@ have not yet been performed.
 
 The further presentation here is split into 4 sections as follows:
 
-[Data](/jdt/coronadata.html)
+[Data]({{ site.url}}/coronadata.html)
 
-[Analysis](/jdt/coronaanalysis.html)
+[Analysis]({{ site.url}}/coronaanalysis.html)
 
-[Code](/jdt/coronacode.html)
+[Code]({{ site.url}}/coronacode.html)
 
-[Output](/jdt/coronaout.html)
+[Output]({{ site.url}}/coronaout.html)
 
 There exists a R implementation in the [R0 Package](https://rdrr.io/cran/R0/) on
 [cran r](https://cran.r-project.org/), described in *Obadia(2012)*.
@@ -69,13 +69,13 @@ epidemologic (SEIR) modelling of the corona outbreak.
 Links and pdfs:
 
 [Wallinga and Teunis(2004))](https://www.researchgate.net/publication/8361277_Different_Epidemic_Curves_for_Severe_Acute_Respiratory_Syndrome_Reveal_Similar_Impacts_of_Control_Measures)
-[pdf]({{ site.url}}/pdf/Wallinga_Teunis_2004_Epidemic_Curves.pdf)
+[pdf]({{ site.url}}/pdf/corona/Wallinga_Teunis_2004_Epidemic_Curves.pdf)
 
 [Wallinga and Lipsitch(2007)](https://royalsocietypublishing.org/doi/10.1098/rspb.2006.3754)
-[pdf]({{ site.url}}/pdf/Wallinga_2007_Generation_Intervals.pdf)
+[pdf]({{ site.url}}/pdf/corona/Wallinga_2007_Generation_Intervals.pdf)
 
 [Obadia et al(2012) R0 Package (Article)](https://www.researchgate.net/publication/233948297_The_R0_package_A_toolbox_to_estimate_reproduction_numbers_for_epidemic_outbreaks)
-[pdf]({{ site.url}}/pdf/R0_Obadia-2012.pdf)
+[pdf]({{ site.url}}/pdf/corona/R0_Obadia-2012.pdf)
 
 [R0 Package on cranR](https://rdrr.io/cran/R0/)
 
@@ -85,10 +85,15 @@ Links and pdfs:
 
 [Dyrehaugen Jupyter Notebook on Github (Julia Code)](https://github.com/dyrehaugen/jcorona/blob/master/corona.ipynb)
 
+[Cori (2013) New Framework](https://academic.oup.com/aje/article/178/9/1505/89262)
+[pdf]({{ site.url}}/pdf/corona/Cori_2013_Time_Varying_Reproduction.pdf) 
+
+
+
 {% include links.html %}
 
 [//]: # [reference](url)
-[//]: # [pdf]({{ site.url}}/pdf/pdffile.pdf) 
+[//]: # [pdf]({{ site.url}}/pdf/corona/pdffile.pdf) 
 
 [//]: # Given a *generation interval distribution* for the disease and *empirical observations* of
 [//]: # the outbreak, the Basic Reproduction Number can be estimated. (Formula (3.6) in WL):
