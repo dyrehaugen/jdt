@@ -10,8 +10,8 @@ description: "Dyrehaugen Global Desktop"
 
 Select one of:
 #url: http://dyrehaugen.ddns.net:81/jdt
-#url: https://dyrehaugen.github.io/jdt
-url: http://localhost/jdt
+url: https://dyrehaugen.github.io/jdt
+#url: http://localhost/jdt
 
 ### End of variant settings ###
 
