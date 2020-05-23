@@ -1,5 +1,5 @@
 ---
-title: Global Desktop
+title: Collections
 keywords: homepage
 tags: [homepage]
 sidebar: home_sidebar
@@ -8,10 +8,10 @@ summary: This site is the central web node for Dyre Haugen. The various 'Section
 ---
 
 
-*Welcome to my Global Desktop*
+*Welcome to Dyrehaugen Collections*
 
 Reflecting my life as a 'Jack of all trades' - or at least *some* trades -
-this site is a collection of very different contents.
+this site is a mix of very different contents.
 It is at any time WIP - Work In Progress - do not expect a polished/
 finished experience. The site is a mirror of my workdesk as it shows
 up at any moment - a place to put 'papers and notes' in our paperless era.

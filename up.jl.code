@@ -1,0 +1,3 @@
+cp ~/zjul/corona/wrld/jmh/src/jcor.jl code
+cp ~/zjul/corona/wrld/jmh/src/jdfs.jl code
+cp ~/zjul/corona/wrld/jmh/src/jR0.jl code

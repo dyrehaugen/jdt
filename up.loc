@@ -1,4 +1,4 @@
-./run.build
+./run.build.loc
 rm -rf /var/www/html/jdt/*
 cp -rp _site/* /var/www/html/jdt
 

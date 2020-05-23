@@ -1,0 +1,15 @@
+# ~/zwww/jdt/dirnote
+# 200521 001
+
+# In _config.yml     -> url: https://dyrehaugen.github.io/jdt
+# In _config.loc.yml -> url: http://localhost/jdt
+# In _config.dyr.yml -> url: http://dyrehaugen.ddns.net:81/jdt
+
+# To build github site:
+bundle exec jekyll build
+# To build localhost site:
+bundle exec jekyll build --config _config.yml,_config.loc.yml
+# To build dyrehaugen site:
+bundle exec jekyll build --config _config.yml,_config.dyr.yml
+
+# EOF

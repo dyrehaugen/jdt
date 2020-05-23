@@ -1,4 +1,4 @@
-# iondog: ~/qwww/jdt/_config_github.yml
+# iondog: ~/qwww/jdt/_config.yml
 # 200516 005 corona sidebar added
 # 180330 004 jdt in url, not as baseurl
 
@@ -9,8 +9,8 @@ description: "Dyrehaugen Global Desktop"
 ### Start variant settings ###
 
 Select one of:
-#url: http://dyrehaugen.ddns.net:81/jdt
-url: https://dyrehaugen.github.io/jdt
+url: http://dyrehaugen.ddns.net:81/jdt
+#url: https://dyrehaugen.github.io/jdt
 #url: http://localhost/jdt
 
 ### End of variant settings ###

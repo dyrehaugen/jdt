@@ -1,7 +1,7 @@
 ---
 title:        coronacode
 kewords:              
-last_updated: May16,2020    
+last_updated: May 23, 2020    
 summary:              
 sidebar:      corona_sidebar
 permalink:    coronacode.html  
@@ -10,9 +10,18 @@ folder:       corona
 
 [//]: # (Comments on edit:? )
 
-Below follows the Julia code for the Corona Outbreak Analysis
-This can also be accessed as a Jupyter Notebook
+Below follows a Julia code extract for the Corona Outbreak Analysis
+This code can also be accessed as a Jupyter Notebook
 [here](https://github.com/dyrehaugen/jcorona)
+
+More complete code can be accessed here:
+
+[jcor.jl]({{ site.url}}/code/jcor.jl)
+
+[jdfs.jl]({{ site.url}}/code/jdfs.jl)
+
+[jR0.jl]({{ site.url}}/code/jR0.jl)
+
 
 ```julia
 # ~/znb/corona/nb/corona.jl  -- downloaded from ~/znb/corona/nb/corona.ipynb                                                         
