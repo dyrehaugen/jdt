@@ -1,15 +1,15 @@
 ---
-title: Experience
+title: Episodes
 keywords: experience
-last_updated: September 11, 2017
+last_updated: May 24, 2020
 tags: [experience]
-summary: "Introduction to Experience"
-sidebar: exp_sidebar
+summary: "Introduction to Episodes"
+sidebar: home_sidebar
 permalink: exp_intro.html
 folder: exp
 ---
 
-Life is experience - if you dare to jump into it!
+Life is experience - if you dare to jump into it - from *episodes* that put a mark on you!
 That sounds nice - but comes at a price - there are risks around.
 I started to 'look over the hills' - ventured around and away.
 Small expeditions gradually became more daring ....
@@ -36,7 +36,7 @@ How did I really learn it?
 * ?
 
 Are these the important features of what I am today?
-Not a list of skills, rather a list of personality issues?
+Not a list of skills, rather a list of personality traits?
 
 Reporting on these would rather require writing prose or poetry -
 may be short stories
@@ -50,6 +50,8 @@ I am a man tilting more towards *learning by doing* rather than *theoretical
 reasoning* - learning by *experimentation* and *applied research* if you want.
 
 So - may be trying to recall *episodes* of *learning experience* may work?
+
+The first *episode* is [Clean Vision]({{site.url}}/Clean-Vision.html)
 
 
 

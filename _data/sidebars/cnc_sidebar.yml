@@ -41,7 +41,7 @@ entries:
     - title: Environment
       url: /env_intro.html
       output: web
-    - title: Urbanisation
+    - title: Urbanization
       url: /urb_intro.html
       output: web
 

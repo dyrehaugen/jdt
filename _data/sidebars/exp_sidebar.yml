@@ -31,5 +31,8 @@ entries:
     - title: Overview
       url: /exp_intro.html
       output: web
+    - title: Clan Vision
+      url: /Clean-Vision.html
+      output: web
 
 # EOF

@@ -202,6 +202,14 @@ The race goes on like Alice in Wonderland's *running to stand still* (Pyemo's al
 But the running goes in waves.
 For the last half century Humanity has mostly been running under the *neoliberal dogma*
 with such (temporal) success that we almost forgot that the other process were also running.
+[Sherpa](https://www.medrxiv.org/content/10.1101/2020.04.03.20047530v2)
+[pdf]({{ site.url}}/pdf/corona/Sherpa_2020_Austerity_COVID-19_Fatality_Rates.pdf)
+shows that *a policy of Austerity (health expenditure cuts)
+significantly increases the mortality rates of COVID-19 in OECDcountries.
+The policy implication of the study is the need for a robust public-funded health
+system with wider accessibility to deal with major public health crisis like COVID-19
+pandemic.*
+
 Now the Corona pandemic opens a window of opportunity to get better politics in place.
 New pandemics - potentially more harmful than Covid-19 - will emerge in the future.
 Pyeyo suggests a preparation plan: an international agreement to be adopted by governments,
@@ -236,6 +244,7 @@ Links:
 
 [Cori Time-Varying Reproduction Numbers (2013)](https://academic.oup.com/aje/article/178/9/1505/89262)
 [pdf]({{ site.url}}/pdf/corona/Cori_2013_Time_Varying_Reproduction.pdf)
+[Methods pdf]({{ site.url}}/pdf/corona/CoriSI.pdf)
 
 [Engebretsen Spread Model (Article) (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006879)
 [pdf]({{ site.url}}/pdf/corona/Engebretsen_2019_Spread_Model_Article.pdf)

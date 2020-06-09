@@ -24,7 +24,7 @@ entries:
       url: /sec_intro.html
       output: web
 
-  - title: Activities
+  - title: Souls
     output: web
     folderitems:
     - title: Overview
@@ -46,14 +46,17 @@ entries:
 #      url: /act_other.html
 #      output: web
 
-  - title: Experience
+  - title: Episodes
     output: web
     folderitems:
     - title: Overview
       url: /exp_intro.html
       output: web
+    - title: Clean Vision
+      url: /Clean-Vision.html
+      output: web
 
-  - title: Locations
+  - title: Places
     output: web
     folderitems:
     - title: Overview
@@ -65,11 +68,11 @@ entries:
     - title: Gran Canaria
       url: /loc_canaria.html
       output: web
-    - title: Other Locations
+    - title: Other Places
       url: /loc_other.html
       output: web
 
-  - title: Concerns
+  - title: Issues
     output: web
     folderitems:
     - title: Overview
@@ -84,7 +87,7 @@ entries:
     - title: Environment
       url: /env_intro.html
       output: web
-    - title: Urbanisation
+    - title: Urbanization
       url: /urb_intro.html
       output: web
 

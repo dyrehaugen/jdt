@@ -5,7 +5,7 @@ last_updated: July 29,2017
 tags: [dogs]
 summary: "This is about living with dogs - we start out by considering artful
 photograhy of these our friends"
-sidebar: act_sidebar
+sidebar: home_sidebar
 permalink: act_dogs.html
 folder: act
 ---

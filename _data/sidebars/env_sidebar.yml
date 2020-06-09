@@ -7,7 +7,7 @@ entries:
   levels: one
   folders:
 
-  - title: Navigation
+  - title: NAVIGATION
     output: web
     folderitems:
     - title: Home
@@ -22,11 +22,11 @@ entries:
     - title: Tweets
       url: /tweets.html
       output: web
-    - title: Sections
+    - title: SECTIONS
       url: /sec_intro.html
       output: web
 
-  - title: Environment
+  - title: ENVIRONMENT
     output: web
     folderitems:
     - title: Overview
@@ -43,6 +43,12 @@ entries:
       output: web
     - title: Land
       url: /env_land.html
+      output: web
+    - title: Forests
+      url: /env_forest.html
+      output: web
+    - title: Soil
+      url: /env_soil.html
       output: web
     - title: Ocean
       url: /env_ocean.html

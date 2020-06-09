@@ -26,11 +26,16 @@ folder: env
 
 ### Land
 
+[Go to Land](env_land.html)
+
 #### Forests
+
+[Go to Forrests](env_forrest.md)
 
 #### Soil
 
-[Go to Land](env_land.html)
+[Go to Soil](env_soil.html)
+
 
 
 

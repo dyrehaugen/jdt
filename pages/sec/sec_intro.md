@@ -5,37 +5,33 @@ permalink: sec_intro.html
 folder: sec
 ---
 
-### 1. Activities
+### 1. Souls
 
-This section comprises stuff on various activities I am involved in,
-starting out with [Dogging](act_dogs.html).
-I intend to expand with [Hiking](act_hiking.html),
-[Swimming](act_swimming.html),
-[Tennis](act_tennis.html) and
-[Other](act_other.html)
+This section comprises stuff on various Souls of importance to me,
+starting out with [Dogs](act_dogs.html).
 
-[Goto Activities Overview](act_intro.html)
+[Goto Souls Overview](act_intro.html)
 
-### 2. Experience 
+### 2. Episodes
 
+Episodes that have made an impact on me.
 A lot of experiences - from all walks of life, around the globe -
 how these will show up here remains to be seen ...
-may be I will focus on experiences that have had the most
-personal impact.
 
 
-[Goto Experience Overview](exp_intro.html)
+
+[Goto Episodes Overview](exp_intro.html)
 
 
-### 3. Locations 
+### 3. Places 
 
 Here I put stuff related to locations of particular interest to me.
 I start out with the two places I stay more permanently:
 [Gran Canaria](/loc_canaria.html) and [Norway](/loc_norway.html).
 
-[Goto Locations Overview](loc_intro.html)
+[Goto Places Overview](loc_intro.html)
 
-### 4. Concerns 
+### 4. Issues 
 
 Experiences leads to opinions on what matters in life and society -
 in a global perspective.
@@ -46,7 +42,7 @@ some of my most explicit opinions on issues that concerns me - like:
 [environment](env_intro.html) and
 [urbanisation](urb_intro.html)
 
-[Goto Concerns Overview](cnc_intro.html)
+[Goto Issues Overview](cnc_intro.html)
 
 ### 5. Research 
 
@@ -56,7 +52,9 @@ What grows might later be turned into new sections in it's own right.
 So far there is some material on
 [modelling financial instability](minsky.html)
 
-[Goto Research Overview](res_into.html)
+and on [modelling the corona outbreak](corona.html)
+
+[Goto Research Overview](res_intro.html)
 
 ### 6. Varia 
 

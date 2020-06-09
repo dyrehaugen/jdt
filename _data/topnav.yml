@@ -20,13 +20,13 @@ topnav_dropdowns:
       folderitems:
         - title: Overview
           url: /sec_intro.html
-        - title: Activities
+        - title: Souls
           url: /act_intro.html
-        - title: Experience
+        - title: Episodes
           url: /exp_intro.html
-        - title: Locations
+        - title: Places
           url: /loc_intro.html
-        - title: Concerns
+        - title: Issues
           url: /cnc_intro.html
         - title: Research
           url: /res_intro.html
@@ -35,30 +35,30 @@ topnav_dropdowns:
 
     - title: Links
       folderitems:
-        - title: English Blog (Jekyll)
-          external_url: http://dyrehaugen.ddns.net:81/jde
-        - title: Norwegian Blog (Jekyll)
-          external_url: http://dyrehaugen.ddns.net:81/jdn
-        - title: English Blog (html)
+        - title: Blog (in English)
+          external_url: http://dyrehaugen.github.io/jde
+        - title: Blog (in Norwegian)
+          external_url: http://dyrehaugen.github.io/jdn
+        - title: Previous Blog (in English, simple html) 
           external_url:  http://dyrehaugen.ddns.net:81/dhe
-        - title: Norwegian Blog (html)
+        - title: Previous Blog (in Norwegian, simple html))
           external_url:  http://dyrehaugen.ddns.net:81/dhn
-        - title: English Blog (wordpress)
+        - title: Previous Blog (in English, Wordpress)
           external_url:  http://dyrehaugen.ddns.net:81/wpdhe
-        - title: Norwegian Blog (wordpress)
+        - title: Previous Blog (in Norwegian, Wordpress)
           external_url:  http://dyrehaugen.ddns.net:81/wpdhn
-        - title: Family Site (wordpress) (login required)
-          external_url:  http://dyrehaugen.ddns.net:81/wpfam
-        - title: Prospect JRW56
-          external_url:  http://dyrehaugen.ddns.net:81/jrw56
-        - title: Prospect Greco51
-          external_url:  http://dyrehaugen.ddns.net:81/greco51
-        - title: WebCameras at JRW56 (last hour)
-          external_url:  http://dyrehaugen.ddns.net:81/cam
-        - title: Temperature logger at JRW56
+#       - title: Family Site (wordpress) (login required)
+#         external_url:  http://dyrehaugen.ddns.net:81/wpfam
+#       - title: Prospect JRW56
+#         external_url:  http://dyrehaugen.ddns.net:81/jrw56
+#       - title: Prospect Greco51
+#         external_url:  http://dyrehaugen.ddns.net:81/greco51
+#       - title: WebCameras at JRW56 (last hour)
+#         external_url:  http://dyrehaugen.ddns.net:81/cam
+        - title: Temperature logger at Dyrehaugen
           external_url:  http://dyrehaugen.ddns.net:81/tsl
-        - title: This site on Github
-          external_url:  https://dyrehaugen.github.io/jdt
-        - title: Github Repo for this site
-          external_url: https://github.com/dyrehaugen/jdt
+#       - title: This site on Github
+#         external_url:  https://dyrehaugen.github.io/jdt
+        - title: Github Repo for Dyrehaugen
+          external_url: https://github.com/dyrehaugen/
 # EOF
