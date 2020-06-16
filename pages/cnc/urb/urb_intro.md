@@ -15,11 +15,13 @@ The following subsections are so far available:
 
 
 
-[Urbanization - Epidemic Vulnerability during the Corona Outbreak]({{site.url}}/urb_corona.html)
+[Urban Epidemics]({{site.url}}/urb_corona.html)
+
+[Urban Scaling]({{site.url}}/urb_scale.html)
 
 and
-
-[Urbanization - Various Issues]({{site.url}}/urb_varia.html)
+ 
+[Various Urban Issues]({{site.url}}/urb_varia.html)
 
 which touches upon:
 - Urban Social-Ecological Systems

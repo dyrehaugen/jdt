@@ -30,7 +30,7 @@ folder: env
 
 #### Forests
 
-[Go to Forrests](env_forrest.md)
+[Go to Forests](env_forest.md)
 
 #### Soil
 

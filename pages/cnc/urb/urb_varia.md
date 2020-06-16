@@ -9,7 +9,7 @@ permalink: urb_varia.html
 folder: urb
 ---
 
-## Varoius Issues in Urbanisation
+## Various Issues in Urbanisation
 
 ### Urban social-ecological systems
 

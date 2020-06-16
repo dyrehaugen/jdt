@@ -53,6 +53,9 @@ entries:
     - title: Urban Epidemics
       url: /urb_corona.html
       output: web
+    - title: Urban Scaling
+      url: /urb_scale.html
+      output: web
     - title: Various Urban Themes
       url: /urb_varia.html
       output: web
