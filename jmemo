@@ -3,4 +3,12 @@
 # Add new sidebars to the list in:
 enw _config.yml
 enw _includes/custom/sidebarconfigs.html
+
+# ERROR on build
+jekyll 3.8.7 | Error:  No such file or directory @ realpath_rec - /mnt/extra8/eZtra/zWork/zWww/jdt/jmh@zendog.25110:1592559848
+This occurs when there is an open file being edited which has not yet been saved !! Save and retry build !
+
+
+
+
 # EOF

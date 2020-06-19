@@ -4,7 +4,7 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: two
   folders:
 
   - title: NAVIGATION
@@ -37,6 +37,9 @@ entries:
       output: web
     - title: Biodiversity
       url: /env_biodiversity.html
+      output: web
+    - title: '- Mass Extinction'
+      url: /env_extinction.html
       output: web
     - title: Atmosphere
       url: /env_atmos.html

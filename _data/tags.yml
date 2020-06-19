@@ -2,13 +2,14 @@ allowed-tags:
   - blog
   - canaria
   - capitalism
-  - climate change
+  - climate_change
   - democracy
   - dogs
   - economics
   - epidemics
   - environment
-  - forest degradation
+  - forest_degradation
+  - geoengineering
   - nationalism
   - news
   - norway
@@ -16,3 +17,5 @@ allowed-tags:
   - progress
   - sailships
   - urbanization
+
+  - energy

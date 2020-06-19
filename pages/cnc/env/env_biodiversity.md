@@ -9,6 +9,11 @@ permalink: env_biodiversity.html
 folder: env
 ---
 
+### Mass Extinction
+
+[goto Mass Extinction](env_extinction.html)
+
+
 ### Living Planet Report 2016
 
 WWF publishes an annual 'Living Planet Report' - latest 2016.

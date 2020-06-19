@@ -5,13 +5,30 @@ entries:
   levels: one
   folders:
 
-  - title: Navigation
+  - title: NAVIGATION
     output: web
     folderitems:
-    - title: Home
+    - title: HOME
       url: /index.html
       output: web
-    - title: Concerns Overview
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: SECTIONS
+      url: /sec_intro.html
+      output: web
+
+
+  - title: ISSUES
+    output: web
+    folderitems:
+    - title: Overview
       url: /cnc_intro.html
       output: web
     - title: Capitalism
@@ -23,8 +40,24 @@ entries:
     - title: Environment
       url: /env_intro.html
       output: web
-    - title: Urbanisation
+    - title: Urbanization
       url: /urb_intro.html
+      output: web
+
+  - title: CLIMATE CHANGE
+    output: web
+    folderitems:
+    - title: Overview
+      url: /clm_intro.html
+      output: web
+    - title: Climate Models
+      url: /clm_models.html
+      output: web
+    - title: Energy
+      url: /clm_energy.html
+      output: web
+    - title: Geoengineering
+      url: /clm_geoengineering.html
       output: web
 
 # EOF

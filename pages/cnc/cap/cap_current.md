@@ -1,7 +1,7 @@
 ---
 title: How Current Capitalism Works
 keywords: capitalism
-last_updated: June 22, 2018
+last_updated: June 18, 2020
 tags: [capitalism]
 summary: "How Current Capitalism Works"
 sidebar: cap_sidebar
@@ -224,4 +224,7 @@ Technology basically allows barter to operate on an industrial scale. Technology
 [(Sheng/Geng)](https://www.project-syndicate.org/commentary/bitcoin-cryptocurrencies-monetary-risk-by-andrew-sheng-and-xiao-geng-2017-08)
 
 
+## Green Growth
 
+
+[Hickel on McAfee: 'More from Less'](https://foreignpolicy.com/2020/06/18/more-from-less-green-growth-environment-gdp/)
