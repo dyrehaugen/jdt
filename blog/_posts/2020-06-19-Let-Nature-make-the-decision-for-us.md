@@ -27,7 +27,7 @@ project - as humanity incapability to stop greenhouse gas emissions continues.
 more players towards high-mitigation ambitions.
 
 That's just of hope in a pressed situation. May be 'Nature will decide for us' means
-that we will get all of evils - first: unlimited emissions growth - second: solar geoengineering - third: as geoengineering risks realizes - Nature decides (Collapse?)
+that we will get all of evils - first: unlimited emissions growth - second: solar geoengineering - third: as geoengineering risks realize - Nature decides (Collapse?)
 
 
 [Fabre on Geoenineering vs Ambitious Mitigation]({{ site.url }}/clm_geoengineering.html)

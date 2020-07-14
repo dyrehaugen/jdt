@@ -2,7 +2,7 @@
 title:  "Money Rules"
 categories:  tweet
 permalink: tweets-1806623-money-rules.html
-tags: [tweet]
+tags: [economics]
 ---
 
 The global money supply

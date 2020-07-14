@@ -1,0 +1,53 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Navigation
+    output: web
+    folderitems:
+    - title: Home
+      url: /index.html
+      output: web
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: Sections
+      url: /sec_intro.html
+      output: web
+
+  - title: Research 
+    output: web
+    folderitems:
+    - title: Overview
+      url: /res_intro.html
+      output: web
+
+  - title: Corona Modelling
+    output: web
+    folderitems:
+    - title: Model
+      url: /corona.html
+      output: web
+    - title: Data
+      url: /coronadata.html
+      output: web
+    - title: Analysis
+      url: /coronaanalysis.html
+      output: web
+    - title: Code
+      url: /coronacode.html
+      output: web
+    - title: Output
+      url: /coronaout.html
+      output: web
+
+# EOF

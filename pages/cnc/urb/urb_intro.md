@@ -13,7 +13,7 @@ folder:       urb
 
 The following subsections are so far available:
 
-
+[Ground Rent]({{site.url}}/urb_groundrent.html)
 
 [Urban Epidemics]({{site.url}}/urb_corona.html)
 

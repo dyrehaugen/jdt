@@ -1,0 +1,118 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: NAVIGATION
+    output: web
+    folderitems:
+    - title: HOME
+      url: /index.html
+      output: web
+    - title: News
+      url: /news.html
+      output: web
+    - title: Blog
+      url: /blog.html
+      output: web
+    - title: Tweets
+      url: /tweets.html
+      output: web
+    - title: SECTIONS
+      url: /sec_intro.html
+      output: web
+
+  - title: Souls
+    output: web
+    folderitems:
+    - title: Overview
+      url: /act_intro.html
+      output: web
+    - title: Dogs
+      url: /act_dogs.html
+      output: web
+#    - title: Hiking
+#      url: /act_hiking.html
+#      output: web
+#    - title: Swimming
+#      url: /act_swimming.html
+#      output: web
+#    - title: Tennis
+#      url: /act_tennis.html
+#      output: web
+#    - title: Other
+#      url: /act_other.html
+#      output: web
+
+  - title: Episodes
+    output: web
+    folderitems:
+    - title: Overview
+      url: /exp_intro.html
+      output: web
+    - title: Clean Vision
+      url: /Clean-Vision.html
+      output: web
+
+  - title: Places
+    output: web
+    folderitems:
+    - title: Overview
+      url: /loc_intro.html
+      output: web
+    - title: Norway
+      url: /loc_norway.html
+      output: web
+    - title: Gran Canaria
+      url: /loc_canaria.html
+      output: web
+    - title: Other Places
+      url: /loc_other.html
+      output: web
+
+  - title: Issues
+    output: web
+    folderitems:
+    - title: Overview
+      url: /cnc_intro.html
+      output: web
+    - title: Capitalism
+      url: /cap_intro.html
+      output: web
+    - title: Climate Change
+      url: /clm_intro.html
+      output: web
+    - title: Environment
+      url: /env_intro.html
+      output: web
+    - title: Urbanization
+      url: /urb_intro.html
+      output: web
+
+  - title: Research
+    output: web
+    folderitems:
+    - title: Overview
+      url: /res_intro.html
+      output: web
+    - title: Financial Instability
+      url: /minsky.html
+      output: web
+    - title: Corona Modelling
+      url: /corona.html
+      output: web
+
+  - title: Varia
+    output: web
+    folderitems:
+    - title: Overview
+      url: /var_intro.html
+      output: web
+    - title: Math Symbols
+      url: /var_mathsymbols.html
+      output: web
+
+
+# EOF

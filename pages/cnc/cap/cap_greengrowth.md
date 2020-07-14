@@ -33,6 +33,9 @@ folder:       cap
 [Ward: Is Decoupling Possible](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164733)
 [(pdf)]({{ site.url}}/pdf/cap/Ward_2016_Is_Decoupling_Possible.pdf)
 
+[Wiedmann (2020) Scientist's Warning on Aaffluence](https://www.nature.com/articles/s41467-020-16941-y)
+[(pdf)]({{ site.url}}/pdf/cap/Wiedmann_2020_Scientists_Warning_on_Affluence.pdf)
+
 
 {% include links.html %}
 

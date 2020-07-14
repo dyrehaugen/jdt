@@ -171,13 +171,21 @@ permanent austerity for the many...
 ...an overarching dynamic that, under the guise of free-market capitalism,
 is creating a cartel-based, hierarchical, financialized global economic system.
 
+From a review of Vogl's book by James McRitchie:
+> *The Ascendancy of Finance* presents a convincing explanation of a major threat, not only to democracy but to the individual’s freedom to live a meaningful existence, instead of as an  economic robot. Like Mary Shelley’s Frankenstein, Vogl offers little in the way of recommendations for how to deal with the monster we have unleashed. Shelly warned against ambition as the Creature morned his creator’s death and vanished onto the ice in an act of self-sacrifice. Our creation is much further along and is unlikely to follow suit.
+
+[Streeck on Vogl](https://wolfgangstreeck.com/2018/05/09/the-fourth-power/) [pdf]({{ site.url}}/pdf/Wolfgang_Streeck_2018_The_Fourth_Power.pdf)
+
+[McRitchie on Vogl](https://www.corpgov.net/2017/10/ascendancy-of-finance-reviewed/)
+
+[Zwan on Vogl](https://www.researchgate.net/publication/329591067_Review_of_Joseph_Vogl_The_Ascendancy_of_Finance_John_Wiley_Sons_2017)
 
 
-[Wolfgang Streeck](https://wolfgangstreeck.com/2018/05/09/the-fourth-power/) [pdf]({{ site.url}}/pdf/Wolfgang_Streeck_2018_The_Fourth_Power.pdf)
+[Guardian](https://www.theguardian.com/business/2018/jun/23/bank-of-england-new-boss-new-problems-brexit)
 
-[The Guardian](https://www.theguardian.com/business/2018/jun/23/bank-of-england-new-boss-new-problems-brexit)
+[Varoufakis](https://www.project-syndicate.org/commentary/three-tribes-of-austerity-by-yanis-varoufakis-2018-08)
 
-[Yanis Varoufakis](https://www.project-syndicate.org/commentary/three-tribes-of-austerity-by-yanis-varoufakis-2018-08)
+
 
 
 ## Globalization
@@ -223,8 +231,3 @@ Technology basically allows barter to operate on an industrial scale. Technology
 
 [(Sheng/Geng)](https://www.project-syndicate.org/commentary/bitcoin-cryptocurrencies-monetary-risk-by-andrew-sheng-and-xiao-geng-2017-08)
 
-
-## Green Growth
-
-
-[Hickel on McAfee: 'More from Less'](https://foreignpolicy.com/2020/06/18/more-from-less-green-growth-environment-gdp/)

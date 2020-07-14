@@ -7,10 +7,10 @@ entries:
   levels: one
   folders:
 
-  - title: NAVIGATION
+  - title: Navigation
     output: web
     folderitems:
-    - title: HOME
+    - title: Home
       url: /index.html
       output: web
     - title: News
@@ -26,33 +26,11 @@ entries:
       url: /sec_intro.html
       output: web
 
-  - title: ISSUES
-    output: web
-    folderitems:
-    - title: Overview
-      url: /cnc_intro.html
-      output: web
-    - title: Capitalism
-      url: /cap_intro.html
-      output: web
-    - title: Climate Change
-      url: /clm_intro.html
-      output: web
-    - title: Environment
-      url: /env_intro.html
-      output: web
-    - title: Urbanization
-      url: /urb_intro.html
-      output: web
-
-  - title: CAPITALISM
+  - title: Capitalism
     output: web
     folderitems:
     - title: What IS Capitalism?
       url: /cap_intro.html
-      output: web
-    - title: '  - Value Theory'
-      url: /cap_value.html
       output: web
     - title: How Current Capitalism Works
       url: /cap_current.html

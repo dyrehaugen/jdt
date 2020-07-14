@@ -1,14 +1,16 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+# This is your sidebar TOC.
+# The sidebar code loops through sections here and
+# provides the appropriate formatting.
 
 entries:
 - title: Sidebar
   levels: one
   folders:
 
-  - title: NAVIGATION
+  - title: Navigation
     output: web
     folderitems:
-    - title: HOME
+    - title: Home
       url: /index.html
       output: web
     - title: News
@@ -20,12 +22,11 @@ entries:
     - title: Tweets
       url: /tweets.html
       output: web
-    - title: SECTIONS
+    - title: Sections
       url: /sec_intro.html
       output: web
 
-
-  - title: ISSUES
+  - title: Concerns
     output: web
     folderitems:
     - title: Overview
@@ -44,23 +45,3 @@ entries:
       url: /urb_intro.html
       output: web
 
-  - title: URBANIZATION
-    output: web
-    folderitems:
-    - title: Overview
-      url: /urb_intro.html
-      output: web
-    - title: Ground Rent
-      url: /urb_groundrent.html
-      output: web
-    - title: Urban Epidemics
-      url: /urb_corona.html
-      output: web
-    - title: Urban Scaling
-      url: /urb_scale.html
-      output: web
-    - title: Various Urban Themes
-      url: /urb_varia.html
-      output: web
-
-# EOF

@@ -1,6 +1,4 @@
-# This is your sidebar TOC.
-# The sidebar code loops through sections here and
-# provides the appropriate formatting.
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
 - title: Sidebar
@@ -26,17 +24,18 @@ entries:
       url: /sec_intro.html
       output: web
 
-  - title: Varia
+  - title: Research 
     output: web
     folderitems:
-    - title: Varia Overview
-      url: /var_intro.html
+    - title: Overview
+      url: /res_intro.html
       output: web
-    - title: Math Symbols
-      url: /var_mathsymbols.html
+    - title: Financial Instability
+      url: /minsky.html
       output: web
-    - title: Boom and Bust
-      url: /var_boombust.html
+    - title: Corona Modelling
+      url: /corona.html
       output: web
 
 # EOF
+

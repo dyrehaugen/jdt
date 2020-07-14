@@ -44,23 +44,20 @@ entries:
       url: /urb_intro.html
       output: web
 
-  - title: URBANIZATION
+  - title: CLIMATE CHANGE
     output: web
     folderitems:
     - title: Overview
-      url: /urb_intro.html
+      url: /clm_intro.html
       output: web
-    - title: Ground Rent
-      url: /urb_groundrent.html
+    - title: Climate Models
+      url: /clm_models.html
       output: web
-    - title: Urban Epidemics
-      url: /urb_corona.html
+    - title: Energy
+      url: /clm_energy.html
       output: web
-    - title: Urban Scaling
-      url: /urb_scale.html
-      output: web
-    - title: Various Urban Themes
-      url: /urb_varia.html
+    - title: Geoengineering
+      url: /clm_geoengineering.html
       output: web
 
 # EOF

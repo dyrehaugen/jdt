@@ -10,7 +10,7 @@ entries:
   - title: NAVIGATION
     output: web
     folderitems:
-    - title: HOME
+    - title: Home
       url: /index.html
       output: web
     - title: News
@@ -24,25 +24,6 @@ entries:
       output: web
     - title: SECTIONS
       url: /sec_intro.html
-      output: web
-
-  - title: ISSUES
-    output: web
-    folderitems:
-    - title: Overview
-      url: /cnc_intro.html
-      output: web
-    - title: Capitalism
-      url: /cap_intro.html
-      output: web
-    - title: Climate Change
-      url: /clm_intro.html
-      output: web
-    - title: Environment
-      url: /env_intro.html
-      output: web
-    - title: Urbanization
-      url: /urb_intro.html
       output: web
 
   - title: ENVIRONMENT

@@ -35,8 +35,5 @@ entries:
     - title: Math Symbols
       url: /var_mathsymbols.html
       output: web
-    - title: Boom and Bust
-      url: /var_boombust.html
-      output: web
 
 # EOF
