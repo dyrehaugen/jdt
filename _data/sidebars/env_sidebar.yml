@@ -60,6 +60,9 @@ entries:
     - title: '- Mass Extinction'
       url: /env_extinction.html
       output: web
+    - title: '- Pandemics'
+      url: /env_pandemics.html
+      output: web
     - title: Atmosphere
       url: /env_atmos.html
       output: web

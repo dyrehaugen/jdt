@@ -35,18 +35,18 @@ topnav_dropdowns:
 
     - title: Links
       folderitems:
-        - title: Blog (in English)
+        - title: Reflections (Blog in English)
           external_url: http://dyrehaugen.github.io/jde
-        - title: Blog (in Norwegian)
+        - title: Betraktninger (Blog (in Norwegian)
           external_url: http://dyrehaugen.github.io/jdn
-        - title: Previous Blog (in English, simple html) 
-          external_url:  http://dyrehaugen.ddns.net:81/dhe
-        - title: Previous Blog (in Norwegian, simple html))
-          external_url:  http://dyrehaugen.ddns.net:81/dhn
-        - title: Previous Blog (in English, Wordpress)
-          external_url:  http://dyrehaugen.ddns.net:81/wpdhe
-        - title: Previous Blog (in Norwegian, Wordpress)
-          external_url:  http://dyrehaugen.ddns.net:81/wpdhn
+#        - title: Previous Blog (in English, simple html) 
+#          external_url:  http://dyrehaugen.ddns.net:81/dhe
+#        - title: Previous Blog (in Norwegian, simple html))
+#          external_url:  http://dyrehaugen.ddns.net:81/dhn
+#        - title: Previous Blog (in English, Wordpress)
+#          external_url:  http://dyrehaugen.ddns.net:81/wpdhe
+#        - title: Previous Blog (in Norwegian, Wordpress)
+#          external_url:  http://dyrehaugen.ddns.net:81/wpdhn
 #       - title: Family Site (wordpress) (login required)
 #         external_url:  http://dyrehaugen.ddns.net:81/wpfam
 #       - title: Prospect JRW56
@@ -55,8 +55,8 @@ topnav_dropdowns:
 #         external_url:  http://dyrehaugen.ddns.net:81/greco51
 #       - title: WebCameras at JRW56 (last hour)
 #         external_url:  http://dyrehaugen.ddns.net:81/cam
-        - title: Temperature logger at Dyrehaugen
-          external_url:  http://dyrehaugen.ddns.net:81/tsl
+#        - title: Temperature logger at Dyrehaugen
+#          external_url:  http://dyrehaugen.ddns.net:81/tsl
 #       - title: This site on Github
 #         external_url:  https://dyrehaugen.github.io/jdt
         - title: Github Repo for Dyrehaugen

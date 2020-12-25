@@ -13,6 +13,10 @@ folder: env
 
 [goto Mass Extinction](env_extinction.html)
 
+### Pandemics
+
+[goto Pandemics](env_pandemics.html)
+
 
 ### Living Planet Report 2016
 

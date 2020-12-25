@@ -108,6 +108,39 @@ The spacing of carbon dioxide samples varies through time. At the present, the a
 
 [carbon dioxide](https://en.wikipedia.org/wiki/File:Carbon_Dioxide_400kyr.png)
 
+
+### Methane Budget
+
+>Atmospheric emissions and concentrations of CH 4 continue to increase,
+making CH 4 the second most important human-influenced greenhouse gas in terms of climate forcing, after
+carbon dioxide (CO 2 ). The relative importance of CH 4 compared to CO 2 depends on its shorter atmospheric
+lifetime, stronger warming potential, and variations in atmospheric growth rate over the past decade, the causes
+of which are still debated. Two major challenges in reducing uncertainties in the atmospheric growth rate arise
+from the variety of geographically overlapping CH 4 sources and from the destruction of CH 4 by short-lived
+hydroxyl radicals (OH).
+
+>For the 2008–2017 decade, global methane emissions are estimated by atmospheric inversions (a top-down
+approach) to be 576 Tg CH 4 yr −1 (range 550–594, corresponding to the minimum and maximum estimates of the
+model ensemble). Of this total, 359 Tg CH 4 yr −1 or ∼ 60 % is attributed to anthropogenic sources, that is emis-
+sions caused by direct human activity (i.e. anthropogenic emissions; range 336–376 Tg CH 4 yr −1 or 50 %–65 %).
+The mean annual total emission for the new decade (2008–2017) is 29 Tg CH 4 yr −1 larger than our estimate for
+the previous decade (2000–2009), and 24 Tg CH 4 yr −1 larger than the one reported in the previous budget for
+2003–2012 (Saunois et al., 2016). Since 2012, global CH 4 emissions have been tracking the warmest scenarios
+assessed by the Intergovernmental Panel on Climate Change. Bottom-up methods suggest almost 30 % larger
+global emissions (737 Tg CH 4 yr −1 , range 594–881) than top-down inversion methods.
+
+
+{% include image.html file="climate/Globally_averagered_atmosperic_CH4.png" alt="Globally_averagered_atmosperic_CH4"  %}
+
+Fig. Globally averaged atmospheric CH4
+
+
+[Global Methane Budget 2000-2017](https://essd.copernicus.org/articles/12/1561/2020/)
+[pdf]({{ site.url }}/pdf/climate/climate/Saunois_2020_Methane_2000-2017.pdf)
+[pdf(SM)]({{ site.url }}/pdf/climate/climate/Saunois_2020_Methane_2000-2017_SM.pdf)
+
+
+
 ### Milankovitch Cycles
 
 Milankovitch cycles describe the collective effects of changes in the Earth's movements on its climate over thousands of years. The term is named after Serbian geophysicist and astronomer Milutin Milanković. In the 1920s, he theorized that variations in eccentricity, axial tilt, and precession of the Earth's orbit resulted in cyclical variation in the solar radiation reaching the Earth, and that this orbital forcing strongly influenced climatic patterns on Earth.

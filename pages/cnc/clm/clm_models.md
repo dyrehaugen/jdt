@@ -48,10 +48,33 @@ There are by now dozens of economic studies, he pointed out, showing how global 
 
 "We don't argue against DICE's conclusions with the force of an ethical argument, we offer a new model that calculates a price of CO2 by taking the financial economic view seriously," Wagner added.
 
-"And that price is not the $20, $30 or $40 that Bill comes up with. In our model, we can't get our price below $120 a tonne." 
+"And that price is not the  20, 30 or 40  dollar that Bill comes up with. In our model, we can't get our price below 120 a tonne." 
 
 
 [Hood on Nordhaus vs. Weitzman/Wagner](https://phys.org/news/2020-07-climate-economics-nobel-good.html)
+
+#### Reclibrating DICE
+
+Nordhaus finds that 3.5C waring in 2100 is 'optimal' - so that we can just skip trying to
+stay within the IPCC recommended 1.5C.
+This is du to his discounting of the future - and his presumption that economic growth will
+contunue as fast as it has - so that future generations will be much more affluent than we
+and thus more easily can 'pay' for damges and reparations.
+
+>DICE has also been criticized on several grounds.These include the choice of discounting parameters, the model’s omission of uncertainty and the risk for climate catastrophes, the treatment of non-market damages and details of its climate model. Notably the DICE model’s concept of economic optimality, that is maximizing a discounted utilitarian social welfare function, has been criticized for not reflecting the structure of optimal-control models that incorporate risk and uncertainty and for its reliance on a single conception of intergenerational welfare. DICE has also been subject to general criticism regarding the use of cost–benefit analysis for climate policy purposes
+
+However, recent research on improved versions of Nordhaus' DICE model suggests
+otherwise:
+
+[Hänsel 2020 LSE News](http://www.lse.ac.uk/granthaminstitute/news/climate-economics-support-for-the-un-climate-targets/)
+
+[Phys.org Review](https://phys.org/news/2020-07-climate-economics-nobel-good.html)
+
+[Hänsel 2020 Climate economics support for the UN climate targets](https://www.nature.com/articles/s41558-020-0833-x.epdf?sharing_token=cyvm9M7lwY29yC6vVL0jQ9RgN0jAjWel9jnR3ZoTv0OgjM4ZTc8VFJ2U9UaOLc1jMmHsOQzf6D3k2elcKTq1pGKWbFq-MPuDLc2DMLon2HCyEj_YKbIxq7s8N47VUREQVmShyNmya0XCIwTUyIT0Cn_z73rkZu8VBLPUQ3ynsN0%3D)
+
+
+
+
 
 #### CMIP6
 
@@ -223,6 +246,14 @@ How can we be confident human greenhouse gas emissions causes this development?
 [Lindsay](/https://www.climate.gov/news-features/understanding-climate/extreme-event-attribution-climate-versus-weather-blame-game)
 
 [NOAA (2016) Human-caused intensification of 2015 heat waves](https://www.noaa.gov/media-release/scientists-strong-evidence-human-caused-climate-change-intensified-2015-heat-waves)
+
+#### Climate Damage Estimation
+
+
+
+
+[Howard: Meta-analysis of Climate Damage Estimates](https://www.researchgate.net/publication/317975532_Few_and_Not_So_Far_Between_A_Meta-analysis_of_Climate_Damage_Estimates)
+[(pdf)]({{ site.url}}/pdf/climate/Howard_2017_Few_and_Not_So_Far_Between_A_Meta-analysis_of_Climate_Damage_Estimates.pdf)
 
 
 {% include links.html %}

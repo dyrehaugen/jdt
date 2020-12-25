@@ -50,6 +50,9 @@ entries:
     - title: Overview
       url: /clm_intro.html
       output: web
+    - title: Climate Sensitivity
+      url: /clm_sensitivity.html
+      output: web
     - title: Climate Models
       url: /clm_models.html
       output: web
@@ -58,6 +61,12 @@ entries:
       output: web
     - title: Geoengineering
       url: /clm_geoengineering.html
+      output: web
+    - title: Carbon Pricing
+      url: /clm_carbon_pricing.html
+      output: web
+    - title:  Clean Performance Standards
+      url: /clm_performance_standards.html
       output: web
 
 # EOF
