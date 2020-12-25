@@ -70,16 +70,7 @@ As for now the themes are grouped under these headings:
 
 The links (use top meny to open) are to related web content -
 but external to this site.
-Most links are to previous versions of blogs.
-Blogging startet back in 2012 with a simple file
-written directly in html and put into a apache web server subdirectory
-on a leftover computer server runnning Debian Linux.
-Then some test blogging on Wordpress before ending up with static Jekyll.
-The current site is based on Tom Johnson's
-[Jekyll Documentation Theme](http://idratherbewriting.com/documentation-theme-jekyll/index.html) version 6.0 as found on
-[Github](https://github.com/tomjoht/documentation-theme-jekyll).
-There is as well a link to the temperature logger at Dyrehaugen.
-Also are provided links to the Dyrehaugen Github repo.
+Blogs in Norwegian and English and links to the Dyrehaugen Github repo.
 
 ## About
 
@@ -88,5 +79,10 @@ experience from various aspects of development efforts
 (social, technological and economic)
 at all scales (local, urban, regional, national, international and
 global) - today unaffiliated freelancer solely financed by own funds.
+
+The current site is based on Tom Johnson's
+[Jekyll Documentation Theme](http://idratherbewriting.com/documentation-theme-jekyll/index.html) version 6.0 as found on
+[Github](https://github.com/tomjoht/documentation-theme-jekyll).
+
 
 {% include links.html %}

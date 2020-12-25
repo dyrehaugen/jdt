@@ -14,6 +14,7 @@ What does not fit elsewhere is cllected here:
 
 ### [Rendering Greek letters and math symbols](/var_mathsymbols.html).
 
+### [Boom and Bust - Why Decline is faster than Growth](/var_boombust.html).
 
 {% include links.html %}
 
